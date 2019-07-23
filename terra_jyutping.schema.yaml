@@ -69,7 +69,7 @@ speller:
     - abbrev/^([gk]w).+$/$1/     # 聲母簡拼
     - abbrev/^(dz).+$/$1/        # 聲母簡拼
     - abbrev/^(ts).+$/$1/        # 聲母簡拼
-    - derive/[1-6]$//            # 聲調略寫
+    - derive/^([a-z]+)[1-6]$/$1/ # 聲調略寫
 
 translator:
   dictionary: terra_jyutping
