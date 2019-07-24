@@ -21,40 +21,88 @@ min_phrase_weight: 100
 ...
 
 AA制	ei1 ei1 zai3
+account	aa6 kaang1
 A貨	ei1 fo3
 𢳂	bat1
 BB	bi1 bi1
 BB機	bi1 bi1 gei1
+bio	bai6 o1
 㩧	bok1
+book	buk1
+book唔到位	buk1 m4 dou2 wai2
+book機票	buk1 gei1 piu3
 𩗴	bung6
+call	ko1
+call人	ko1 jan4
+call台	ko1 toi4
+call機	ko1 gei1
+call機肉	ko1 gei1 juk6
+call白車	ko1 baak6 ce1
+call車	ko1 ce1
+cancer	ken1 saa2
+cash	ke1 syu4
 𡃴	ceoi4
+cert	seot1
+cheap	cip1
+cheap嘢	cip1 je5
+cheap精	cip1 zing1
+check	cek1
+check吓	cek1 haa5
+chem	kem1
 CIB	si1 ai1 bi1
+claim	kem1
+claim保險	kem1 bou2 him2
+claim稅	kem1 seoi3
+claim翻	kem1 faan1
+click	kik1
+click入去	kik1 jap6 heoi3
+compute	kam6 piu1
+con	kon1
+cool	ku1
+cute	kiu1
+cut	kat1
 𢴈	daat3
 𨂽	dam6
 𢱕	dap6
 𢷮	deoi2
+detail	di1 toe4
 㧻	duk1
 𡁯	dyut1
-Eng lit jing1 lit1
+econ	ji6 kon1
+Eng lit	jing1 lit1
 EU	ji1 jiu1
 E仔	ji1 zai2
+fax	fet1 si2
+feel	fiu1
+fee哩啡咧	fi6 li1 fe4 le4
+fee士	fi1 si2
+foul	fau1
+foul出局	fau1 ceot1 guk6
+friend	fen1
+friend過打band	fen1 gwo3 daa2 ben1
 㗎	gaa3
 㗎	gaa3	1000
 㗎	gaa4	1000
+gag	gek1
 䀹	gap6
+geogra	zok1 gaa2
 𠹳	git6
+high	haai1
 㷫	hing3
 㷫	hing3	1000
 㗾	hoe1
 IP	ai1 pi1
 𨅝	jaang3
+jacket	zek1 kek6
 𩬎	jam1
 䊆	kaau3	1000
 𢫏	kam2
+keep	kip1
 𧥺	kwan1
 K仔	kei1 zai2
 K金	kei1 gam1
 𦧺	laai2
+label	lei1 bou2
 㨆	lam6
 𢃇	lei5
 𤓓	lo3
@@ -63,6 +111,9 @@ K金	kei1 gam1
 𤷪	mang2
 𤷪𤷪𤺧𤺧	mang2 mang2 zang2 zang2
 𤷪𤺧	mang2 zang2
+man	men1
+mean	min1
+miss	mi1 si4
 𠴕	miu2
 M巾	em1 gan1
 𤶸	naa1
@@ -75,24 +126,48 @@ M巾	em1 gan1
 OK	o1 kei1
 OK難	ou1 kei1 naan4
 O.T.	ou1 ti1
+out	au1
 O咀	ou1 zeoi2
 O晒咀	ou1 saai3 zeoi2
 O記	ou1 gei3
 㓟	pai1
+paper	pei1 paa4
+part-time	paak1 taai1
+passport	paa1 si4 pot1
+pat pat	pet1 pet1
 PC	pi1 si1
 䠋	pe5
+pizza	pi1 saa4
 𦢊	pok1
+pro	pou6
 PTU	pi1 ti1 jiu1
+quali	ko1 li2
 㩄	saai1
 㩄	saai1	1000
 㨘	saang2
+sales	soe1 si2
+secu	sek6 kiu1
+sense	sen1 si2
+set	set1
+set好	set1 hou2
+sharp	saap1
+short	sot1
+short哋	sot1 sot1 dei2
 𡄽	soe4
+sorry	so1 li4
+sorry囉	so1 li4 lo1
 𧘹	taai1
+talk	tok1
 𧨾	tam3
+tissue	ti1 su4
+title	taai1 tou4
 T恤	ti1 seot1
+un	an1
 van	wen1
 van仔	wen1 zai2
 𠿭	wet1
+we𠿭𠿭	wi1 wi1 wet1 wet1
+work	woek3
 X光	ik1 si4 gwong1
 䁪	zaam2
 㜺	zaan2	1000
@@ -878,7 +953,7 @@ X光	ik1 si4 gwong1
 上陣	soeng5 zan3
 上集	soeng6 zaap6
 上面	soeng6 min6
-上頁	soeng6 jip6 cert seot1
+上頁	soeng6 jip6
 上頜骨	soeng6 hap6 gwat1
 上頭	soeng5 tau4
 上頭	soeng6 tau4
@@ -2015,7 +2090,7 @@ X光	ik1 si4 gwong1
 二等	ji6 dang2
 二等兵	ji6 dang2 bing1
 二等艙	ji6 dang2 cong1
-二級	ji6 kap1 econ ji6 kon1
+二級	ji6 kap1
 二者不可兼得	ji6 ze2 bat1 ho2 gim1 dak1
 二胡	ji6 wu4
 二萬	ji6 maan6
@@ -2127,7 +2202,7 @@ X光	ik1 si4 gwong1
 些微	se1 mei4
 些許	se1 heoi2
 亞	aa3
-亞sir aa3 soe4
+亞sir	aa3 soe4
 亞一	aa3 jat1
 亞乜人	aa3 mat1 jan4
 亞仔	aa3 zai2
@@ -2798,7 +2873,6 @@ X光	ik1 si4 gwong1
 低血糖	dai1 hyut3 tong4
 低調	dai1 diu6
 低賤	dai1 zin6
-低賤，沒有身份，便宜	cheap精	cip1 zing1
 低迷	dai1 mai4
 低迷不振	dai1 mai4 bat1 zan3
 低速	dai1 cuk1
@@ -2914,7 +2988,7 @@ X光	ik1 si4 gwong1
 佛祖	fat1 zou2
 佛經	fat1 ging1
 佛要金裝	fat6 jiu3 gam1 zong1
-佛要金裝，人要衣裝	fat6 jiu3 gam1 zong1 jan4 jiu3 ji1 zong1 foul fau1
+佛要金裝，人要衣裝	fat6 jiu3 gam1 zong1 jan4 jiu3 ji1 zong1
 佛誕	fat1 daan3
 佛誕	fat6 daan3
 佛都有火	fat6 dou1 jau5 fo2
@@ -3303,7 +3377,6 @@ X光	ik1 si4 gwong1
 便利	bin6 lei6
 便利商店	bin6 lei6 soeng1 dim3
 便宜	pin4 ji4
-便宜沒好貨	pat pat pet1 pet1
 便捷	bin6 zit6
 便服	bin6 fuk6
 便溺	bin6 niu6
@@ -3385,7 +3458,6 @@ X光	ik1 si4 gwong1
 保你大	bou2 nei5 daai6
 保姆	bou2 mou5
 保存	bou2 cyun4
-保存，保持，維持，保養	keep kip1
 保守	bou2 sau2
 保守主義	bou2 sau2 zyu2 ji6
 保守黨	bou2 sau2 dong2
@@ -3798,7 +3870,7 @@ X光	ik1 si4 gwong1
 偏頗	pin1 po1
 偓	ak1
 偕	gaai1
-做part-time zou6 paak1 taai1
+做part-time	zou6 paak1 taai1
 做	zou6
 做乜	zou6 mat1
 做乜噉嘅？	zou6 mat1 gam2 ge2
@@ -4139,8 +4211,6 @@ X光	ik1 si4 gwong1
 傳動力	cyun4 dung6 lik6
 傳動帶	cyun4 dung6 daai3
 傳動裝置	cyun4 dung6 zong1 zi3
-傳呼中心	call人	ko1 jan4
-傳呼機，呼叫器	call機肉	ko1 gei1 juk6
 傳問	cyun4 man6
 傳喚	cyun4 wun6
 傳單	cyun4 daan1
@@ -4171,7 +4241,6 @@ X光	ik1 si4 gwong1
 傳球	cyun4 kau4
 傳球法	cyun4 kau4 faat3
 傳真	cyun4 zan1
-傳真	fee士	fi1 si2
 傳真機	cyun4 zan1 gei1
 傳神	cyun4 san4
 傳票	cyun4 piu3
@@ -4412,7 +4481,6 @@ X光	ik1 si4 gwong1
 儀表	ji4 biu2
 儀表堂堂	ji4 biu2 tong4 tong4
 儀錶	ji4 biu1
-儀錶	miss mi1 si4
 儂	nung4
 儃	sin4
 億	jik1
@@ -5495,7 +5563,7 @@ X光	ik1 si4 gwong1
 冧篷頭	lam1 pung4 tau4
 冧酒	lam1 zau2
 冪	mik6
-冪數	mik6 sou3 mean min1
+冪數	mik6 sou3
 冬	dung1
 冬令	dung1 ling6
 冬大過年	dung1 daai6 gwo3 nin4
@@ -6492,7 +6560,7 @@ X光	ik1 si4 gwong1
 劇評人	kek6 ping4 jan4
 劇變	kek6 bin3
 劇跌	kek6 dit3
-劇院	kek6 jyun6 chem kem1
+劇院	kek6 jyun6
 劇集	kek6 zaap6
 劈	pai1
 劈	pek3
@@ -6970,7 +7038,6 @@ X光	ik1 si4 gwong1
 化妝品	faa3 zong1 ban2
 化妝室	faa3 zong1 sat1
 化妝箱	faa3 zong1 soeng1
-化學	claim kem1
 化學	faa3 hok6
 化學作用	faa3 hok6 zok3 jung6
 化學元素	faa3 hok6 jyun4 sou3
@@ -7652,7 +7719,7 @@ X光	ik1 si4 gwong1
 及	kap6
 及得上	kap6 dak1 soeng5
 及時	kap6 si4
-及時雨	kap6 si4 jyu5 cut kat1
+及時雨	kap6 si4 jyu5
 友	jau2
 友	jau5
 友人	jau5 jan4
@@ -8013,8 +8080,6 @@ X光	ik1 si4 gwong1
 叫好	giu3 hou2
 叫屈	giu3 wat1
 叫座	giu3 zo6
-叫，招呼，打電話	call白車	ko1 baak6 ce1
-叫救護車	call車	ko1 ce1
 叫白車	giu3 baak6 ce1
 叫糊	giu3 wu2
 叫罵	giu3 maa6
@@ -8022,7 +8087,6 @@ X光	ik1 si4 gwong1
 叫苦	giu3 fu2
 叫苦連天	giu3 fu2 lin4 tin1
 叫賣	giu3 maai6
-叫車	call機	ko1 gei1
 叫車	giu3 ce1
 叫醒	giu3 seng2
 叫門	giu3 mun4
@@ -8092,11 +8156,10 @@ X光	ik1 si4 gwong1
 可遇而不可求	ho2 jyu6 ji4 bat1 ho2 kau4
 台	ji4
 台	toi4
-台幣	toi5 bai6 talk tok1
+台幣	toi5 bai6
 台榭	toi4 ze6
 台灣人	toi4 waan1 jan4
 台階	toi4 gaai1
-台階，石階	secu sek6 kiu1
 叱	cik1
 叱吒	cik1 zaa1
 叱吒風雲	cik1 zaa1 fung1 wan4
@@ -8271,7 +8334,6 @@ X光	ik1 si4 gwong1
 合掌瓜	hap6 zoeng2 gwaa1
 合晒心水	hap6 saai3 sam1 seoi2
 合格	hap6 gaak3
-合格	passport paa1 si4 pot1
 合桃	hap6 tou4
 合桃酥	hap6 tou4 sou1
 合檔	gaap3 dong3
@@ -9350,7 +9412,7 @@ X光	ik1 si4 gwong1
 唔	m4
 唔	m4	10000
 唔	ng4
-唔work m4 woek3
+唔work	m4 woek3
 唔一定	m4 jat1 ding6
 唔三唔四	m4 saam1 m4 sei3
 唔中用	m4 zung1 jung6
@@ -9441,7 +9503,7 @@ X光	ik1 si4 gwong1
 唔多	m4 do1
 唔多唔少	m4 do1 m4 siu2
 唔夠	m4 gau3
-唔夠quali m4 gau3 ko1 li2
+唔夠quali	m4 gau3 ko1 li2
 唔夠你鬥	m4 gau3 nei5 dau3
 唔夠佢嚟	m4 gau3 keoi5 lei4
 唔夠佢打	m4 gau3 keoi5 daa2
@@ -9842,8 +9904,8 @@ X光	ik1 si4 gwong1
 啫	ze6	1000
 啫喱	ze1 lei2
 啫喱豆	ze1 lei2 dau2
-啱feel ngaam1 fiu1
-啱key ngaam1 ki1
+啱feel	ngaam1 fiu1
+啱key	ngaam1 ki1
 啱	ngaam1
 啱	ngaam5	1000
 啱使	ngaam1 sai2
@@ -10165,7 +10227,6 @@ X光	ik1 si4 gwong1
 嗍水	sok3 seoi2
 嗍煙	sok3 jin1
 嗍鼻	sok3 bei6
-嗎	account aa6 kaang1
 嗎	maa1
 嗎	maa3
 嗎	maa5
@@ -11131,7 +11192,7 @@ X光	ik1 si4 gwong1
 在	hai2	# (喺)
 在	zoi6
 在乎	zoi6 fu4
-在意	zoi6 ji3 geogra zok1 gaa2
+在意	zoi6 ji3
 在所難免	zoi6 so2 naan4 min5
 在生	zoi6 saang1
 圩	heoi1
@@ -11604,7 +11665,6 @@ X光	ik1 si4 gwong1
 報載	bou3 zoi3
 報道	bou3 dou6
 報酬	bou3 cau4
-報銷	claim稅	kem1 seoi3
 堲	zik1
 堳	mei4
 場	coeng4
@@ -11981,7 +12041,7 @@ X光	ik1 si4 gwong1
 夏朝	haa6 ciu4
 夏爐冬扇	haa6 lou4 dung1 sin3
 夏眠	haa6 min4
-夏禹治水	haa6 jyu5 zi6 seoi2 high haai1
+夏禹治水	haa6 jyu5 zi6 seoi2
 夏至	haa6 zi3
 夒	naau4
 夔	kwai4
@@ -12294,7 +12354,7 @@ X光	ik1 si4 gwong1
 夜鶯	je6 ang1
 夜麻麻	je6 maa1 maa1
 夠	gau3
-夠quali gau3 ko1 li2
+夠quali	gau3 ko1 li2
 夠勁	gau3 ging6
 夠咗有突	gau3 zo2 jau5 dat6
 夠喇	gau3 laa3
@@ -12664,7 +12724,6 @@ X光	ik1 si4 gwong1
 大聲公	daai6 seng1 gung1
 大肚	daai6 tou5
 大肚婆	daai6 tou5 po2
-大肚皮，啤酒肚	quali ko1 li2
 大肚腩	daai6 tou5 naam5
 大腦	daai6 nou5
 大腸	daai6 coeng4
@@ -13146,7 +13205,7 @@ X光	ik1 si4 gwong1
 夸	kwaa1
 夸克	kwaa1 hak1
 夼	kong3
-夾band gaap3 ben1
+夾band	gaap3 ben1
 夾	gaap2
 夾	gaap3
 夾	gap3
@@ -13392,8 +13451,8 @@ X光	ik1 si4 gwong1
 她	keoi5	# 佢
 她	taa1
 奼	caa3
-好friend hou2 fen1
-好high hou2 haai1
+好friend	hou2 fen1
+好high	hou2 haai1
 好	hou2
 好	hou3
 好事者	hou3 si6 ze2
@@ -13426,7 +13485,7 @@ X光	ik1 si4 gwong1
 好唔好	hou2 m4 hou2
 好唔掂	hou2 m4 dim6
 好唱口	hou2 coeng3 hau2
-好啱key hou2 ngaam1 ki1
+好啱key	hou2 ngaam1 ki1
 好啲	hou2 di1
 好喫	hou2 jaak3
 好嗍氣	hou2 sok3 hei3
@@ -13624,7 +13683,7 @@ X光	ik1 si4 gwong1
 妒意	dou3 ji3
 妓	gei6
 妓女	gei6 neoi5
-妓院	gei6 jyun6 gag gek1
+妓院	gei6 jyun6
 妖	jiu1
 妖冶	jiu1 je5
 妖女	jiu1 neoi5
@@ -15159,7 +15218,6 @@ X光	ik1 si4 gwong1
 對	deoi2
 對	deoi3
 對	ngaam1	# 合
-對不起	sorry囉	so1 li4 lo1
 對出	deoi3 ceot1
 對唔住	deoi3 m4 zyu6
 對埋	deoi3 maai4
@@ -15243,7 +15301,6 @@ X光	ik1 si4 gwong1
 小數	siu2 sou3
 小數怕長計	siu2 sou3 paa3 coeng4 gai3
 小朋友	siu2 pang4 jau5
-小氣鬼	cheap嘢	cip1 je5
 小看	siu2 hon3
 小童	siu2 tung4
 小篆	siu2 syun6
@@ -15358,7 +15415,6 @@ X光	ik1 si4 gwong1
 局面	guk6 min6
 屁	pei3
 屁股	pei3 gu2
-屁股	pizza pi1 saa4
 屄	bei1
 居	geoi1
 居住	geoi1 zyu6
@@ -18021,7 +18077,7 @@ X光	ik1 si4 gwong1
 情郎	cing4 long4
 情面	cing4 min6
 情願	cing4 jyun2
-情願	cing4 jyun6 cheap cip1
+情願	cing4 jyun6
 惆	cau4
 惆悵	cau4 coeng3
 惇	deon1
@@ -18280,7 +18336,6 @@ X光	ik1 si4 gwong1
 愛滋病人	oi3 zi1 beng6 jan4
 愛犬	oi3 hyun2
 愛玩	oi3 waan2
-愛玩樂的女孩，貪玩的女孩	work woek3
 愛理不理	oi3 lei5 bat1 lei5
 愛神	oi3 san4
 愛管閒事	oi3 gun2 haan4 si6
@@ -19625,7 +19680,7 @@ X光	ik1 si4 gwong1
 扮好人	baan6 hou2 jan4
 扮得意	baan6 dak1 ji3
 扮懵	baan6 mung2
-扮晒cool baan6 saai3 ku1
+扮晒cool	baan6 saai3 ku1
 扮晒嘢	baan6 saai3 je5
 扮演	baan6 jin2
 扮煮飯仔	baan3 zyu2 faan6 zai2
@@ -19797,7 +19852,6 @@ X光	ik1 si4 gwong1
 抓	zaau2
 抓住	zaau2 zyu6
 抓實	zaau2 sat6
-抓毛絨，搖粒絨，雙面刷毛布	fee哩啡咧	fi6 li1 fe4 le4
 抓耳撓腮	zaau2 ji5 naau4 soi1
 抔	pau4
 投	tau4
@@ -19883,7 +19937,7 @@ X光	ik1 si4 gwong1
 抗癌	kong3 ngaam4
 抗癌性	kong3 ngaam4 sing3
 抗癌藥	kong3 ngaam4 joek6
-抗禦	kong3 jyu6 cool ku1
+抗禦	kong3 jyu6
 抗老	kong3 lou5
 抗菌	kong3 kwan2
 抗菌素	kong3 kwan2 sou3
@@ -19930,7 +19984,7 @@ X光	ik1 si4 gwong1
 抰	joeng2
 抱	pou5
 抱佛腳	pou5 fat6 goek3
-抱怨	pou5 jyun3 pro pou6
+抱怨	pou5 jyun3
 抱拳	pou5 kyun4
 抱歉	pou5 hip3
 抱男孫	pou5 naam4 syun1
@@ -20659,7 +20713,6 @@ X光	ik1 si4 gwong1
 掐死	haap3 sei2
 掐著指頭	haap3 zoek6 zi2 tau4
 排	paai4
-排到最前面的位置	part-time paak1 taai1
 排名	paai4 ming4
 排孻屘	paai4 laai1 mei1
 排山倒海	paai4 saan1 dou2 hoi2
@@ -20972,7 +21025,6 @@ X光	ik1 si4 gwong1
 提	tai4
 提供	tai4 gung1
 提倡	tai4 coeng3
-提出減免稅款	cancer ken1 saa2
 提到	tai4 dou2
 提前	tai4 cin4
 提及	tai4 kap6
@@ -21275,7 +21327,6 @@ X光	ik1 si4 gwong1
 搜索	sau1 saak3
 搜集	sau1 zaap6
 搞	gaau2
-搞派對，攪party，搞party
 搞砸	gaau2 zaap3
 搠	sok3
 搡	song2
@@ -22119,7 +22170,7 @@ X光	ik1 si4 gwong1
 攩	dong2
 攪	gaau2
 攪	gaau2	1000
-攪gag gaau2 gek1
+攪gag	gaau2 gek1
 攪三攪四	gaau2 saam1 gaau2 sei3
 攪事	gaau2 si6
 攪作	gaau2 zok3
@@ -22150,7 +22201,7 @@ X光	ik1 si4 gwong1
 攪攪新意思	gaau2 gaau2 san1 ji3 si1
 攪攪震	gaau2 gaau2 zan3
 攪派對	gaau2 paat1 ti4
-攪爛gag gaau2 laan6 gek1
+攪爛gag	gaau2 laan6 gek1
 攪瘀	gaau2 jyu2
 攪笑	gaau2 siu3
 攪花臣	gaau2 faa1 san2
@@ -22160,7 +22211,7 @@ X光	ik1 si4 gwong1
 攪風攪雨	gaau2 fung1 gaau2 jyu5
 攫	fok3
 攫奪	fok3 dyut6
-攬belt laam2 biu1
+攬belt	laam2 biu1
 攬	laam2
 攬	laam5
 攬	laam6
@@ -22190,7 +22241,6 @@ X光	ik1 si4 gwong1
 支氣管炎	zi1 hei3 gun2 jim4
 支派	zi1 paai3
 支流	zi1 lau4
-支票	check吓	cek1 haa5
 支票	zi1 piu3
 支票簿	zi1 piu3 bou6
 支脈	zi1 mak6
@@ -23549,7 +23599,7 @@ X光	ik1 si4 gwong1
 暖粒粒	nyun5 nap1 nap1
 暗	am3
 暗啞抵	ngam3 ngaa2 dai2
-暗喻	am3 jyu6 un an1
+暗喻	am3 jyu6
 暗戀	am3 lyun2
 暗瘡	am3 cong1
 暗礁	am3 ziu1
@@ -23798,7 +23848,7 @@ X光	ik1 si4 gwong1
 月餅	jyut6 beng2
 月餅盒	jyut6 beng2 hap6
 月齡	jyut6 ling4
-有feel jau5 fiu1
+有feel	jau5 fiu1
 有	jau5
 有	jau6
 有一日	jau5 jat1 jat6
@@ -23919,7 +23969,6 @@ X光	ik1 si4 gwong1
 有揸拿	jau5 zaa1 naa4
 有故講咯	jau5 gu2 gong2 lok3
 有效	jau5 haau6
-有效，頂用，起作用	we we𠿭𠿭	wi1 wi1 wet1 wet1
 有料	jau5 liu2
 有料到	jau5 liu2 dou3
 有日	jau5 jat6
@@ -24009,9 +24058,7 @@ X光	ik1 si4 gwong1
 朊	gun2
 朊	jyun2
 朋	pang4
-朋友	friend過打band fen1 gwo3 daa2 ben1
 朋友	pang4 jau5
-朋友們	detail di1 toe4
 服	fuk6
 服侍	fuk6 si6
 服務	fuk6 mou6
@@ -24128,7 +24175,7 @@ X光	ik1 si4 gwong1
 未婚夫	mei6 fan1 fu1
 未婚妻	mei6 fan1 cai1
 未完	mei6 jyun4
-未完待續	mei6 jyun4 doi6 zuk6 man men1
+未完待續	mei6 jyun4 doi6 zuk6
 未得	mei6 dak1
 未得住	mei6 dak1 zyu6
 未得切	mei6 dak1 cit3
@@ -25715,7 +25762,6 @@ X光	ik1 si4 gwong1
 歌詞	go1 ci4
 歌謠	go1 jiu4
 歌迷	go1 mai4
-歌迷，支持者，愛好者，入迷者	fax fet1 si2
 歌頌	go1 zung6
 歍	wu1
 歎	taan3
@@ -26182,7 +26228,6 @@ X光	ik1 si4 gwong1
 殪	ji3
 殫	daan1
 殭	goeng1
-殭屍，活屍，喪屍，活死人	short sot1
 殮	lim5
 殮	lim6
 殯	ban3
@@ -27620,7 +27665,6 @@ X光	ik1 si4 gwong1
 淘古井	tou4 gu2 zeng2
 淘氣	tou4 hei3
 淘汰	tou4 taai3
-淘汰，犯規，被淘汰	foul出局	fau1 ceot1 guk6
 淘金	tou4 gam1
 淙	cung4
 淙	zung1
@@ -29350,7 +29394,7 @@ X光	ik1 si4 gwong1
 煋	sing3
 煌	wong4
 煍	ciu2
-煎pan zin1 pen1
+煎pan	zin1 pen1
 煎	zin1
 煎堆	zin1 deoi1
 煎熬	zin1 ngou4
@@ -29776,7 +29820,7 @@ X光	ik1 si4 gwong1
 爓	jim6
 爔	hei1
 爚	joek6
-爛gag laan6 gek1
+爛gag	laan6 gek1
 爛	laan6
 爛仔	laan6 zai2
 爛佬	laan6 lou2
@@ -30374,7 +30418,7 @@ X光	ik1 si4 gwong1
 狫	lou5
 狳	jyu4
 狴	bai6
-狴犴	bai6 ngon6 bio bai6 o1
+狴犴	bai6 ngon6
 狶	hei1
 狷	gyun1
 狷	gyun3
@@ -31283,7 +31327,7 @@ X光	ik1 si4 gwong1
 甜麵醬	tim4 min6 zoeng3
 甜點	tim4 dim2
 甝	hon4
-生cancer saang1 ken1 saa2
+生cancer	saang1 ken1 saa2
 生	saang1
 生	sang1
 生不帶來，死不帶去	sang1 bat1 daai3 loi4 sei2 bat1 daai3 heoi3
@@ -31583,7 +31627,6 @@ X光	ik1 si4 gwong1
 甲醛	gaap3 cyun4
 甲骨文	gaap3 gwat1 man4
 申	san1
-申報，索賠	claim保險	kem1 bou2 him2
 申斥	san1 cik1
 申請	san1 cing2
 甴	zaat2	1000
@@ -32995,7 +33038,7 @@ X光	ik1 si4 gwong1
 省民	saang2 man4
 省略	saang2 loek6
 省縣	saang2 jyun6
-省縣市	saang2 jyun6 si5 sharp saap1
+省縣市	saang2 jyun6 si5
 省議員	saang2 ji5 jyun4
 省議會	saang2 ji5 wui6
 省轄市	saang2 hat6 si5
@@ -33770,7 +33813,7 @@ X光	ik1 si4 gwong1
 石碑	sek6 bei1
 石級	sek6 kap1
 石膏	sek6 gou1
-石英錶	sek6 jing1 biu1 sense sen1 si2
+石英錶	sek6 jing1 biu1
 石頭	sek6 tau4
 矸	gon1
 矸	gon3
@@ -33954,7 +33997,7 @@ X光	ik1 si4 gwong1
 確保	kok3 bou2
 確定	kok3 ding6
 確實	kok3 sat6
-確認	kok3 jing6 con kon1
+確認	kok3 jing6
 確鑿	kok3 zok6
 碻	kok3
 碼	maa5
@@ -34035,7 +34078,6 @@ X光	ik1 si4 gwong1
 礙	ngoi6
 礙事	ngoi6 si6
 礙口	ngoi6 hau2
-礙手礙腳	click入去	kik1 jap6 heoi3
 礛	laam4
 礝	jyun5
 礞	mung4
@@ -34160,7 +34202,6 @@ X光	ik1 si4 gwong1
 神算	san4 syun3
 神經	san4 ging1
 神經中樞	san4 ging1 zung1 syu1
-神經有問題，神經病	short short哋	sot1 sot1 dei2
 神經病	san4 ging1 beng6
 神經痛	san4 ging1 tung3
 神經科	san4 ging1 fo1
@@ -35003,7 +35044,6 @@ X光	ik1 si4 gwong1
 笑笑口噉講	siu3 siu3 hau2 gam2 gong2
 笑笑口話	siu3 siu3 hau2 waa2
 笑聲	siu3 sing1
-笑聲，嘻嘻哈哈	click kik1
 笑起上嚟	siu3 hei2 soeng5 lei4
 笑靨	siu3 jip3
 笑餐飽	siu3 caan1 baau2
@@ -35346,8 +35386,6 @@ X光	ik1 si4 gwong1
 篦	bei6
 篨	cyu1
 篩	sai1
-篩子，竹篩，竹篩子	label lei1 bou2
-篩子，竹篩，竹篩子	sorry so1 li4
 篩選	sai1 syun2
 篪	ci4
 篰	bou6
@@ -35804,7 +35842,7 @@ X光	ik1 si4 gwong1
 紕	pei1
 紕	pei4
 紕漏	pei1 lau6
-紕繆	pei1 mau4 paper pei1 paa4
+紕繆	pei1 mau4
 紖	zan3
 紗	saa1
 紗窗	saa1 coeng1
@@ -35851,7 +35889,6 @@ X光	ik1 si4 gwong1
 索	saak3
 索	sok3
 索	suk3
-索取保險金	claim翻	kem1 faan1
 索女	sok3 neoi5
 索引	saak3 jan5
 索油	sok3 jau4
@@ -36606,7 +36643,6 @@ X光	ik1 si4 gwong1
 總教練	zung2 gaau3 lin6
 總數	zung2 sou3
 總方針	zung2 fong1 zam1
-總是，老是	set set1
 總書記	zung2 syu1 gei3
 總有	zung2 jau5
 總機	zung2 gei1
@@ -36730,7 +36766,6 @@ X光	ik1 si4 gwong1
 繞	jiu2
 繞	jiu5
 繞彎	jiu2 waan1
-繞線	call ko1
 繠	jeoi5
 繡	sau3
 繢	kui2
@@ -36862,7 +36897,7 @@ X光	ik1 si4 gwong1
 罌	aang1
 罌	ang1
 罌	ngaang1
-罌粟花	ang1 suk1 faa1 out au1
+罌粟花	ang1 suk1 faa1
 罍	leoi4
 罏	lou4
 罐	gun3
@@ -37666,7 +37701,7 @@ X光	ik1 si4 gwong1
 肥皂	fei4 zou6
 肥皂泡	fei4 zou6 pou5
 肥碩	fei4 sek6
-肥肉	fei4 juk6 friend fen1
+肥肉	fei4 juk6
 肥肚腩	fei4 tou5 naam5
 肥肥白白	fei4 fei4 baak6 baak6
 肥胖	fei4 bun6
@@ -37764,7 +37799,7 @@ X光	ik1 si4 gwong1
 背街小巷	bui6 gaai1 siu2 hong6
 背角	bui6 gok3
 背誦	bui6 zung6
-背運	bui6 wan6 book buk1
+背運	bui6 wan6
 背道而馳	bui3 dou6 ji4 ci4
 背部	bui3 bou6
 背陰	bui3 jam1
@@ -38375,7 +38410,6 @@ X光	ik1 si4 gwong1
 臨時	lam4 si4
 臨時工	lam4 si4 gung1
 臨時抱佛腳	lam4 si4 pou5 fat6 goek3
-臨時演員，跑龍套	cash ke1 syu4
 臨死	lam4 sei2
 臨水	lam4 seoi2
 臨河	lam4 ho4
@@ -38640,7 +38674,6 @@ X光	ik1 si4 gwong1
 舅	kau5
 舅仔	kau5 zai2
 舅公	kau5 gung1
-舅奶奶	compute kam6 piu1
 舅媽	kau5 maa1
 舅母	kau5 mou5
 舅父	kau5 fu2
@@ -40946,7 +40979,7 @@ X光	ik1 si4 gwong1
 衈	nei6
 衊	mit6
 衋	sik1
-行beat haang4 bit1
+行beat	haang4 bit1
 行	haang4
 行	hang4
 行	hang6
@@ -41996,7 +42029,6 @@ X光	ik1 si4 gwong1
 訂	ding6
 訂房	deng6 fong2
 訂書機	ding1 syu1 gei1
-訂酒店	book唔到位	buk1 m4 dou2 wai2
 訂閱	ding3 jyut6
 訂雜誌	deng6 zaap6 zi3
 訃	fu6
@@ -42088,8 +42120,6 @@ X光	ik1 si4 gwong1
 設	cit3
 設備	cit3 bei6
 設定	cit3 ding6
-設定好，設置好，預配好	sales soe1 si2
-設定，設置，裝置，預配	set好	set1 hou2
 設計	cit3 gai3
 許	heoi2
 許可證	heoi2 ho2 zing3
@@ -42736,7 +42766,7 @@ X光	ik1 si4 gwong1
 講開	gong1 hoi1
 講開又講	gong2 hoi1 jau6 gong2
 謝	ze6
-謝絕	ze6 zyut6 jacket zek1 kek6
+謝絕	ze6 zyut6
 謝謝	ze6 ze6
 謞	hok6
 謠	jiu4
@@ -42810,7 +42840,7 @@ X光	ik1 si4 gwong1
 譖氣	cam3 hei3
 譖趙	cam3 ziu6
 譖醉	cam3 zeoi3
-識do sik1 du1
+識do	sik1 du1
 識	sik1
 識	zi3
 識人要帶眼	sik1 jan4 jiu3 daai3 ngaan5
@@ -43522,7 +43552,6 @@ X光	ik1 si4 gwong1
 資本家	zi1 bun2 gaa1
 資本論	zi1 bun2 leon6
 資格	zi1 gaak3
-資歷，學歷，才幹，本事	call台	ko1 toi4
 資源	zi1 jyun4
 資產	zi1 caan2
 資產階級	zi1 caan2 gaai1 kap1
@@ -46212,7 +46241,7 @@ X光	ik1 si4 gwong1
 邪	ce4
 邪	je4
 邪不勝正	ce4 bat1 sing3 zing3
-邪心	ce4 sam1 check cek1
+邪心	ce4 sam1
 邪念	ce4 nim6
 邪惡	ce4 ngok3
 邪教	ce4 gaau3
@@ -47257,7 +47286,7 @@ X光	ik1 si4 gwong1
 鍠	wong4
 鍤	caap3
 鍥	kit3
-鍥而不捨	kit3 ji4 bat1 se2 cute kiu1
+鍥而不捨	kit3 ji4 bat1 se2
 鍧	gwang1
 鍪	mau4
 鍬	ciu1
@@ -49296,7 +49325,6 @@ X光	ik1 si4 gwong1
 非常	fei1 soeng4
 非常之	fei1 soeng4 zi1
 非常之重要	fei1 soeng4 zi1 zung6 jiu3
-非常的標緻	feel fiu1
 非政府機構	fei1 zing3 fu2 gei1 kau3
 非政府組織	fei1 zing3 fu2 zou2 zik1
 非正式	fei1 zing3 sik1
@@ -49616,7 +49644,6 @@ X光	ik1 si4 gwong1
 預測	jyu6 cak1
 預算	jyu6 syun3
 預言	jyu6 jin4
-預訂	book機票	buk1 gei1 piu3
 預訂	jyu6 ding6
 預計	jyu6 gai3
 預防	jyu6 fong4
@@ -49657,7 +49684,6 @@ X光	ik1 si4 gwong1
 領域	ling5 wik6
 領導	ling5 dou6
 領導人	ling5 dou6 jan4
-領帶	title taai1 tou4
 領悟	ling5 ng6
 領略	ling5 loek6
 領當	leng5 dong3
@@ -50886,7 +50912,7 @@ X光	ik1 si4 gwong1
 騲	cou2
 騵	jyun4
 騶	zau1
-騷quali sou1 ko1 li2
+騷quali	sou1 ko1 li2
 騷	sou1
 騷亂	sou1 lyun6
 騷動	sou1 dung6
@@ -51159,7 +51185,6 @@ X光	ik1 si4 gwong1
 體己	tai2 gei2
 體弱	tai2 joek6
 體恤	tai2 seot1
-體恤，T恤，體恤衫，T恤衫，T字衫，運動衫，套頭汗衫，套頭上衣	tissue ti1 su4
 體態	tai2 taai3
 體操	tai2 cou1
 體會	tai2 wui6
@@ -51774,7 +51799,7 @@ X光	ik1 si4 gwong1
 鯨吞	king4 tan1
 鯨油	king4 jau4
 鯨鬚	king4 sou1
-鯨魚	king4 jyu4 keep kip1
+鯨魚	king4 jyu4
 鯪	leng4
 鯪	ling4
 鯪魚	leng4 jyu2
@@ -52550,7 +52575,7 @@ X光	ik1 si4 gwong1
 齊黑	cai4 hak1
 齊齊	cai4 cai4
 㩧㩧齋	bok1 bok1 zaai1
-齋talk zaai1 tok1
+齋talk	zaai1 tok1
 齋	zaai1
 齋啡	zaai1 fe1
 齋噏	zaai1 ngap1
