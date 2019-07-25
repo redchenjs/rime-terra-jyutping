@@ -10,8 +10,11 @@ schema:
   description: |
     採用香港語言學會粵語拼音方案,兼容教育學院拼音方案
     http://www.lshk.org/cantonese.php
-    碼表源自開放詞典,可用1-6數字鍵輸入聲調
+    碼表源自開放詞典
     http://kaifangcidian.com
+    聲調輸入(可選)
+    粵拼  1    2    3    4    5    6
+    按鍵  q    r    v   qq   rr   vv
   dependencies:
     - luna_pinyin
 
@@ -51,7 +54,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba123456
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     - derive/^jy?([aeiou])/y$1/  # 容錯 je -> ye, jyu -> yu
@@ -70,10 +73,23 @@ speller:
     - abbrev/^(dz).+$/$1/        # 聲母簡拼
     - abbrev/^(ts).+$/$1/        # 聲母簡拼
     - derive/^([a-z]+)[1-6]$/$1/ # 聲調略寫
+    - xform/1/q/                 # 陰平/高陰入
+    - xform/2/r/                 # 陰上
+    - xform/3/v/                 # 陰去/低陰入
+    - xform/4/qq/                # 陽平
+    - xform/5/rr/                # 陽上
+    - xform/6/vv/                # 陽去/陽入
 
 translator:
   dictionary: terra_jyutping
   spelling_hints: 5
+  preedit_format:
+    - xform/qq/4/                # 陽平
+    - xform/q/1/                 # 陰平/高陰入
+    - xform/rr/5/                # 陽上
+    - xform/r/2/                 # 陰上
+    - xform/vv/6/                # 陽去/陽入
+    - xform/v/3/                 # 陰去/低陰入
 
 reverse_lookup:
   dictionary: luna_pinyin
