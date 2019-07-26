@@ -3041,6 +3041,7 @@ check	cek1
 韆	cin1
 瓩	cin1	0%
 扦	cin1	3%
+瓩	cin1 ngaa5	100%
 㢟	cin2
 冁	cin2
 嘽	cin2
@@ -10756,6 +10757,7 @@ high	haai1
 橀	hoi2	0%
 磑	hoi2	0%
 豈	hoi2	3%
+浬	hoi2 lei5	100%
 儗	hoi3	0%
 頦	hoi4
 颏	hoi4
@@ -12768,6 +12770,11 @@ high	haai1
 偀	jing1	0%
 譻	jing1	0%
 央	jing1	3%
+呎	jing1 cek3	100%
+吋	jing1 cyun3	100%
+哩	jing1 lei5	100%
+啢	jing1 loeng2	100%
+𠺖	jing1 mau5	100%
 𦴤	jing2
 廮	jing2
 影	jing2
@@ -29977,10 +29984,33 @@ van	wen1
 黜	zyut6	5%
 
 # 粵音詞典
-瓩	cin1 ngaa5	100%
-浬	hoi2 lei5	100%
-呎	jing1 cek3	100%
-吋	jing1 cyun3	100%
-哩	jing1 lei5	100%
-啢	jing1 loeng2	100%
-𠺖	jing1 mau5	100%
+哪裏	bin1 dou3
+焉道	bin1 dou3
+邊度	bin1 dou3
+隔壁	gaak3 lei4
+隔離	gaak3 lei4
+噉樣	gam2 joeng6
+這樣	gam2 joeng6
+嗰度	go3 dou3
+那裏	go3 dou3
+人哋	jan4 dei6
+人家	jan4 dei6
+現在	ji4 gaa1
+而今	ji4 gaa1
+毋通	m4 tung1
+難道	m4 tung1
+乜嘢	mat1 je5
+什麼	mat1 je5
+乜嘢	me1 je5
+什麼	me1 je5
+你們	nei5 dei6
+你哋	nei5 dei6
+你等	nei5 dei6
+爾道	ni1 dou3
+這裏	ni1 dou3
+小孩	sai3 lou6
+細路	sai3 lou6
+明天	ting1 jat6
+聽日	ting1 jat6
+噁心	wat6 dat6
+鶻突	wat6 dat6
