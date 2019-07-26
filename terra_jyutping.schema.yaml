@@ -26,8 +26,6 @@ switches:
     states: [ 半角, 全角 ]
   - name: simplification
     states: [ 漢字, 汉字 ]
-  - name: extended_charset
-    states: [ 通用, 增廣 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
