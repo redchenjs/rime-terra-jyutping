@@ -8,11 +8,9 @@ schema:
   author:
     - Jack Chen <redchenjs@live.com>
   description: |
-    採用香港語言學會粵語拼音方案,兼容教育學院拼音方案
+    採用香港語言學會粵語拼音方案，兼容教育學院拼音方案
     http://www.lshk.org/cantonese.php
-    碼表源自開放詞典
-    http://kaifangcidian.com
-    聲調輸入(可選)
+    聲調輸入（可選）
     粵拼  1    2    3    4    5    6
     按鍵  q    r    v   qq   rr   vv
   dependencies:
