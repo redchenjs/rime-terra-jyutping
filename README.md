@@ -15,7 +15,7 @@
 
 ## 依賴
 
-[朙月拼音](https://github.com/rime/rime-luna-pinyin)：拼音反查
+* [朙月拼音](https://github.com/rime/rime-luna-pinyin)：拼音反查
 
 ## 安裝
 
