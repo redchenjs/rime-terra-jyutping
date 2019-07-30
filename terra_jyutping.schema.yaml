@@ -4,15 +4,15 @@
 schema:
   schema_id: terra_jyutping
   name: 地球粵拼
-  version: "1.0"
+  version: "1.1"
   author:
     - Jack Chen <redchenjs@live.com>
   description: |
     採用香港語言學會粵語拼音方案，兼容教育學院拼音方案
     http://www.lshk.org/cantonese.php
-    聲調輸入（可選）
-    調號  1   2   3   4   5   6
-    按鍵  q   s   x   v   f   r
+    ----------聲調規則----------
+    調號   1   2   3   4   5   6
+    按鍵   q   s   x   v   f   r
   dependencies:
     - luna_pinyin
 
@@ -71,23 +71,23 @@ speller:
     - abbrev/^(dz).+$/$1/        # 聲母簡拼
     - abbrev/^(ts).+$/$1/        # 聲母簡拼
     - derive/^([a-z]+)[1-6]$/$1/ # 聲調略寫
-    - xform/1/q/                 # 陰平/高陰入
-    - xform/2/s/                 # 陰上
-    - xform/3/x/                 # 陰去/低陰入
-    - xform/4/v/                 # 陽平
-    - xform/5/f/                 # 陽上
-    - xform/6/r/                 # 陽去/陽入
+    - xform/1$/q/                # 1$ => q
+    - xform/2$/s/                # 2$ => s
+    - xform/3$/x/                # 3$ => x
+    - xform/4$/v/                # 4$ => v
+    - xform/5$/f/                # 5$ => f
+    - xform/6$/r/                # 6$ => r
 
 translator:
   dictionary: terra_jyutping
   spelling_hints: 5
   preedit_format:
-    - xform/([a-z])q/\11/        # 陰平/高陰入
-    - xform/([a-z])s/\12/        # 陰上
-    - xform/([a-z])x/\13/        # 陰去/低陰入
-    - xform/([a-z])v/\14/        # 陽平
-    - xform/([a-z])f/\15/        # 陽上
-    - xform/([a-z])r/\16/        # 陽去/陽入
+    - xform/([a-z])q/\11/        # q$ => 1
+    - xform/([a-z])s/\12/        # s$ => 2
+    - xform/([a-z])x/\13/        # x$ => 3
+    - xform/([a-z])v/\14/        # v$ => 4
+    - xform/([a-z])f/\15/        # f$ => 5
+    - xform/([a-z])r/\16/        # r$ => 6
 
 reverse_lookup:
   dictionary: luna_pinyin
