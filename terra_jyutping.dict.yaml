@@ -9,7 +9,7 @@
 
 ---
 name: terra_jyutping
-version: "2019.06.23"
+version: "2019.08.01"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -3204,7 +3204,7 @@ min_phrase_weight: 100
 一	jat1
 丁	ding1
 丁	zaang1	5%
-丁	zang1	5%
+丁	zang1	0%
 丂	haau2
 七	cat1
 丄	soeng5
@@ -3225,7 +3225,9 @@ min_phrase_weight: 100
 不	bat1
 不	fau2	5%
 不	m4
-与	jyu5
+与	jyu4	0%
+与	jyu5	0%
+与	jyu6	0%
 丏	min5
 丐	goi3	0%
 丐	koi3
@@ -3235,7 +3237,6 @@ min_phrase_weight: 100
 且	ceoi2	0%
 且	cou4	0%
 且	zeoi1
-且	zoeng1	5%
 丕	pei1
 世	sai3
 丘	jau1
@@ -3243,9 +3244,9 @@ min_phrase_weight: 100
 丞	cing2	0%
 丞	sing4
 丟	diu1
-丟	diu6	0%
-両	loeng2
+両	loeng2	5%
 両	loeng5
+両	loeng6	0%
 丣	jau5
 並	bing3	0%
 並	bing6
@@ -3309,17 +3310,14 @@ min_phrase_weight: 100
 乛	waang4
 乜	mat1
 乜	me1
-乜	me2	5%
-乜	me5
-乜	me6
-乜	mi1	0%
+乜	me2	0%
+乜	me5	0%
 乜	ne6	5%
 九	gau2
 乞	hat1
 乞	hei3	5%
 也	dou1
 也	jaa5
-也	je5
 乩	gei1
 乪	kek6
 乳	jyu5
@@ -3328,20 +3326,18 @@ min_phrase_weight: 100
 乸	naa5
 乹	gon1
 乾	gon1
-乾	kin4	50%
+乾	kin4
 乿	zi6	0%
 亀	gau1
 亀	gwai1
 亀	gwan1
-亀	kau1
+亀	kau1	0%
 亁	gon1
 亂	lyun6
 亃	leon6
 亄	ji3
-亄	ji4	0%
 亅	kyut3
 了	laa1	0%
-了	let1
 了	liu4	0%
 了	liu5
 了	zo2
@@ -3351,22 +3347,20 @@ min_phrase_weight: 100
 事	si6
 二	ji6
 亍	cuk1
-于	jyu1
+于	jyu1	0%
 于	jyu4
 云	wan4
 互	wu6
 亓	kei4
 五	ng5
-井	zeng2
+井	zeng2	0%
 井	zing2
 亙	gang2
 些	sai3	0%
 些	se1
 些	so1	0%
 些	so3	5%
-亞	aa1
 亞	aa3
-亞	ngaa1
 亞	ngaa3	0%
 亟	gik1
 亟	kei3
@@ -3382,7 +3376,7 @@ min_phrase_weight: 100
 亦	jik6
 亨	hang1
 亨	hoeng2	0%
-亨	paang1	5%
+亨	paang1	0%
 享	hoeng2
 京	ging1
 京	jyun4	5%
@@ -3391,7 +3385,7 @@ min_phrase_weight: 100
 亯	hoeng2
 亳	bok3
 亳	bok6	0%
-亶	daan6
+亶	daan6	0%
 亶	sin4	5%
 亶	sin6	5%
 亶	taan2
@@ -3408,14 +3402,15 @@ min_phrase_weight: 100
 什	zaap6	5%
 仁	jan4
 仂	lak6
-仂	lik6
+仂	lik6	0%
 仃	ding1
 仄	zak1
 仆	fu6
-仆	puk1
-仇	cau4
-仇	kau4
-仇	sau4	5%
+仆	buk6	0%
+仆	puk1	0%
+仇	cau4	0%
+仇	kau4	5%
+仇	sau4
 仈	baat3
 仉	zoeng2
 今	gam1
@@ -3439,8 +3434,7 @@ min_phrase_weight: 100
 仝	tung4
 仞	jan6
 仟	cin1
-仡	gaak3	0%
-仡	gat1
+仡	gat1	0%
 仡	go1	5%
 仡	hat1	0%
 仡	ngat6
@@ -3451,8 +3445,6 @@ min_phrase_weight: 100
 令	ling5	0%
 令	ling6	5%
 以	ji5
-以	jyu5	0%
-仨	saa1
 仨	saam1	5%
 仩	coeng4
 仫	mo1
@@ -4228,25 +4220,23 @@ min_phrase_weight: 100
 兢	ging1
 入	jap6
 兦	mong4
-內	naap6	5%
+內	naap6	0%
 內	noi6
 全	cyun4
-兩	loeng2
+兩	loeng2	5%
 兩	loeng5
 兩	loeng6	0%
 兪	jyu4
-兪	jyu6
+兪	jyu6	0%
 兪	syu3
 八	baat3
 公	gung1
-六	liu1	5%
 六	luk6
 兮	hai4
-共	gung1	5%
+共	gung1	0%
 共	gung2	0%
 共	gung6
 兵	bing1
-其	ge3
 其	gei1	5%
 其	gei6	5%
 其	kei4
@@ -4288,7 +4278,7 @@ min_phrase_weight: 100
 冢	cung2
 冤	jyun1
 冥	ming4
-冥	ming5
+冥	ming5	0%
 冧	lam1
 冧	lam3
 冧	lam6
@@ -4306,7 +4296,6 @@ min_phrase_weight: 100
 冶	je5
 冷	laang5
 冸	pun3
-冹	bat1	0%
 冹	fat1
 冼	sin2
 冽	lit6
@@ -27037,13 +27026,12 @@ min_phrase_weight: 100
 麯	kuk1
 麰	mau4
 麱	fu1
-麴	guk1
+麴	guk1	0%
 麴	kuk1
 麵	min6
 麶	nim4	0%
 麷	fung1
 麻	maa4
-麼	jiu1
 麼	maa1	0%
 麼	me1
 麼	mo1
@@ -27263,14 +27251,12 @@ min_phrase_weight: 100
 齤	kyun4
 齥	sit3	0%
 齦	han2	5%
-齦	hang2
+齦	hang2	0%
 齦	ngan4
 齧	jit3	0%
 齧	jit6
-齧	ngaat6
-齧	ngat6
-齧	ngit6	5%
-齧	nip6
+齧	ngaat6	0%
+齧	ngit6	0%
 齩	aau5
 齩	ngaau5
 齪	cuk1
@@ -27289,8 +27275,6 @@ min_phrase_weight: 100
 齴	ngaan5
 齵	jyu4
 齶	ngok6
-齶	ok6
-齷	aak1	0%
 齷	ak1
 齷	ngak1	0%
 齸	jat6
@@ -27300,20 +27284,17 @@ min_phrase_weight: 100
 齻	din1
 齼	co2
 齾	ngaa3
-龍	lung2
 龍	lung4
+龎	lung4	0%
 龎	pong4
 龏	gung1	0%
 龐	lung4	0%
 龐	pong4
 龑	jim2
-龑	jim5	0%
 龑	jin2	0%
-龑	zim5
 龒	lung4	0%
 龔	gung1
 龕	ham1
-龕	hom1
 龖	daap6
 龗	ling4
 龗	lung4
@@ -27325,7 +27306,7 @@ min_phrase_weight: 100
 龝	cau1
 龠	joek6
 龡	ceoi1
-龢	wo4
+龢	wo4	0%
 龤	haai4	0%
 龥	joek6
 龥	jyu6
