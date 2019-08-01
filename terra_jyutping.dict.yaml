@@ -3212,7 +3212,7 @@ min_phrase_weight: 100
 丌	gei1
 丌	kei4
 不	bat1
-不	fau2	5%
+不	fau2	0%
 不	m4
 与	jyu4	0%
 与	jyu5	0%
@@ -4946,6 +4946,7 @@ min_phrase_weight: 100
 否	pei5	0%
 吧	baa1	5%
 吧	baa6
+吧	gwaa3
 吨	deon1
 吩	fan1
 吪	faa4	5%
@@ -5183,9 +5184,8 @@ min_phrase_weight: 100
 哂	saai3	0%
 哃	tung4
 哄	hung1
-哄	hung2	0%
-哄	hung3
-哄	hung6	5%
+哄	hung3	0%
+哄	hung6
 哄	tam3
 哅	hung1
 哆	ce2	0%
@@ -5238,7 +5238,7 @@ min_phrase_weight: 100
 哩	li1	5%
 哪	bin1
 哪	naa1	5%
-哪	naa4	0%
+哪	naa4	5%
 哪	naa5
 哪	no4	0%
 哫	zuk1
@@ -6203,7 +6203,6 @@ min_phrase_weight: 100
 坿	fu6
 垀	fu1
 垂	seoi4
-垃	laa1	5%
 垃	laap6
 垇	aau3
 垈	doi6
@@ -9501,8 +9500,7 @@ min_phrase_weight: 100
 拈	nin2	0%
 拉	laa1	0%
 拉	laai1
-拉	laai6	5%
-拉	laap6	5%
+拉	laap6	0%
 拉	laat6	0%
 拊	fu1
 拊	fu2
@@ -14408,7 +14406,8 @@ min_phrase_weight: 100
 牞	kau1	0%
 牟	mau4
 牟	muk6	5%
-牠	taa1
+牠	keoi5
+牠	taa1	0%
 牠	to1	0%
 牡	maau5
 牡	mau5	0%
@@ -17587,7 +17586,7 @@ min_phrase_weight: 100
 累	gui6
 累	leoi4
 累	leoi5
-累	leoi6	5%
+累	leoi6
 細	sai3
 紱	fat1
 紲	sit3
@@ -18476,7 +18475,6 @@ min_phrase_weight: 100
 肊	jik1	0%
 肊	jik6	0%
 肋	laak6	0%
-肋	lak1	5%
 肋	lak6
 肌	gei1
 肏	caau3	0%
@@ -18879,15 +18877,14 @@ min_phrase_weight: 100
 臐	fan1
 臑	ji4	0%
 臑	jyu4
-臑	naau6	5%
+臑	naau6	0%
 臑	nou6	5%
 臒	wok3	0%
 臒	wu6
 臕	biu1
 臗	fun1	0%
-臘	laap6	0%
+臘	laap6
 臘	lip6	0%
-臘	sik1
 臙	jin1	0%
 臚	lou4
 臛	fok3
@@ -18936,10 +18933,8 @@ min_phrase_weight: 100
 臸	zeon3
 臸	zi1
 臹	sau1
-臺	ji4	5%
 臺	toi4
 臻	zeon1
-臼	kau3	0%
 臼	kau5
 臾	jung5	5%
 臾	jyu4
@@ -18948,44 +18943,38 @@ min_phrase_weight: 100
 舁	jyu4
 舂	zung1
 舄	sik1
-舅	kau3	0%
 舅	kau5
 與	jyu4	0%
-與	jyu5	0%
-與	jyu6	5%
+與	jyu5
+與	jyu6
 興	hing1
 興	hing3
 興	jan6	0%
 舉	geoi2
 舊	gau6
 舋	jan3	0%
-舋	jan6
-舋	lang6	0%
+舋	jan6	0%
 舋	man6	5%
-舌	sit3
+舌	sit3	0%
 舌	sit6
 舍	se2	0%
 舍	se3
-舍	se5	5%
+舍	se5	0%
 舐	laai2	0%
 舐	lem2	0%
-舐	lim2	5%
+舐	lim2	0%
 舐	saai2	0%
 舐	saai5	5%
-舐	sai2
-舐	sai5
 舐	si6	0%
 舑	taan1
 舑	tim3
 舒	syu1
 舓	saai5
 舔	tim2
-舕	caam3
 舕	taam3
 舖	pou1	5%
-舖	pou3
+舖	pou3	5%
 舘	gun2
-舘	gwun2
 舚	daam1
 舛	cyun2
 舜	seon3
@@ -18994,7 +18983,7 @@ min_phrase_weight: 100
 舟	zau1
 舠	dou1
 舡	gong1	5%
-舡	syun4
+舡	syun4	0%
 舢	saan1
 舥	paa1
 舦	taai5
@@ -19002,7 +18991,6 @@ min_phrase_weight: 100
 舩	syun4
 航	hong4
 舫	fong2
-般	baan1
 般	bo1
 般	bun1
 般	but3	0%
@@ -19036,8 +19024,8 @@ min_phrase_weight: 100
 艄	saau1
 艅	jyu4
 艇	teng3	0%
-艇	teng5
-艇	ting5	5%
+艇	teng5	0%
+艇	ting5
 艉	mei5
 艋	maang5
 艎	wong4
@@ -19045,7 +19033,7 @@ min_phrase_weight: 100
 艐	gaai3
 艐	zung1
 艑	bin1	5%
-艑	bin6
+艑	bin6	0%
 艒	muk6
 艓	dip6
 艔	dou2
@@ -19054,20 +19042,15 @@ min_phrase_weight: 100
 艕	bong6	0%
 艕	pong3	0%
 艖	caa1
-艖	caa4	0%
-艖	co1	5%
-艗	jat6	0%
 艗	jik6
-艘	sau1
+艘	sau1	0%
 艘	sau2
 艙	cong1
 艚	cou4
 艛	lau4
 艜	daai3
-艜	taai5	0%
-艞	tiu1	0%
 艞	tiu3
-艟	cung1
+艟	cung1	0%
 艟	tung4	5%
 艡	dong1
 艢	coeng4
@@ -19085,7 +19068,6 @@ min_phrase_weight: 100
 艮	ngan4	0%
 良	loeng4
 艱	gaan1
-艱	gan1
 色	sik1
 艴	but6	0%
 艴	fat1
@@ -23017,9 +22999,9 @@ min_phrase_weight: 100
 逖	tik1	5%
 逗	dau6
 這	ni1
-這	ze2	5%
-這	ze3
-這	ze5	5%
+這	ze2
+這	ze3	0%
+這	ze5	0%
 通	tung1
 逛	gwaang6
 逛	kwaang3
@@ -23185,10 +23167,8 @@ min_phrase_weight: 100
 邠	ban1
 邡	fong1
 邢	jing4
-那	aa6	5%
 那	gam3
 那	go2
-那	naa1
 那	naa5
 那	naa6	5%
 那	no1	5%
