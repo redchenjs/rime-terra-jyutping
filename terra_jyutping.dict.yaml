@@ -3801,7 +3801,6 @@ min_phrase_weight: 100
 倞	ging6
 倞	loeng6
 借	ze3
-借	zik6
 倠	seoi1
 倡	coeng1
 倡	coeng3
@@ -9715,24 +9714,20 @@ min_phrase_weight: 100
 捭	baai2
 据	geoi1
 捯	dou2	5%
-捯	dou3
+捯	dou3	0%
 捰	wo2
 捱	ngaai4
 捲	gyun2
 捴	zung2
 捵	can2	5%
 捵	din2
-捵	nin2	0%
 捶	ceoi4
-捷	cip3	5%
 捷	zit3	0%
 捷	zit6
 捸	dat6
 捹	ban3
 捹	fang4
 捹	fang6
-捹	fing3	5%
-捹	fing6
 捺	naat6
 捻	nan2
 捻	nim1	5%
@@ -9743,26 +9738,22 @@ min_phrase_weight: 100
 捼	no4
 捽	cyut3	0%
 捽	zeot1
-捽	zyut3
 捽	zyut6	0%
 捿	cai1
 掀	hin1
 掀	hin3	0%
 掁	caang4
 掂	dim1
-掂	dim3
-掂	dim6
-掃	sou2	5%
+掂	dim6	0%
+掃	sou2	0%
 掃	sou3
 掄	leon4
 掅	cing3
 掆	gong1
-掇	dyut3
 掇	zyut3
 授	sau6
 掉	deu6	0%
 掉	diu6
-掉	doe6	0%
 掉	zaau6	5%
 掊	fau2	0%
 掊	pau2
@@ -9782,13 +9773,11 @@ min_phrase_weight: 100
 掔	hin1
 掖	jat6	0%
 掖	jik6
-掖	jip3	5%
 掗	aa2
 掗	aa3
 掗	ngaa2	0%
 掗	ngaa3	0%
 掗	ngaa6	5%
-掘	fat1	5%
 掘	gwat6
 掙	zaang1	0%
 掙	zaang6
@@ -9796,43 +9785,33 @@ min_phrase_weight: 100
 掛	gwaa3
 掛	kwaa3	0%
 掜	ngai5
-掜	nip6
+掜	nip6	5%
 掝	kwik1
 掝	waak6
-掞	jim5
 掞	sim3
 掟	deng3
 掟	deng6	0%
 掠	loek6
 採	coi2
-採	coi3
 探	taam1	5%
 探	taam3
-掣	cit3
+掣	cit3	0%
 掣	zai3
 掤	bing1
-掤	maang1	0%
-掤	mang1	5%
-掤	mang3	0%
 接	zip3
 掦	dik1
 控	hung3
-推	ceoi1	0%
 推	teoi1
 掩	jim2
 措	cou3
-措	zaak3	0%
 掫	zau1
 掬	guk1
-掭	tim2
 掭	tim3
 掭	tim5	0%
-掭	tim6
 掮	kin4
 掯	kang3
 掰	baai1
 掰	baai2	0%
-掰	maak3	0%
 掰	mak3	0%
 掱	paa4
 掹	maang1	0%
@@ -9844,19 +9823,16 @@ min_phrase_weight: 100
 揁	zing1
 揂	jau4
 揂	zau1
-揃	zin1
+揃	zin1	0%
 揃	zin2
 揄	jau4	5%
 揄	jiu5	0%
 揄	jyu4
-揅	jin4
-揅	ngaan4	0%
-揆	kwai4
+揅	jin4	0%
+揆	kwai4	0%
 揆	kwai5
-揇	naam3	0%
 揇	naam5
 揈	fang4	0%
-揈	fing6
 揈	gwang1
 揉	jau4
 揉	jau6	0%
@@ -10076,7 +10052,6 @@ min_phrase_weight: 100
 摔	seot1
 摕	cai3
 摘	zaak6
-摙	lin2
 摙	lin4	0%
 摙	lin5
 摚	tong3
@@ -14064,7 +14039,6 @@ min_phrase_weight: 100
 煇	fai1
 煇	wai1	0%
 煇	wan6
-煉	lin2
 煉	lin6
 煊	hyun1
 煋	sing1
@@ -17624,7 +17598,6 @@ min_phrase_weight: 100
 絎	han6	0%
 絎	hong4
 絏	sit3
-結	gai1	5%
 結	git3
 結	lit3	0%
 絑	zyu1
@@ -20098,9 +20071,9 @@ min_phrase_weight: 100
 藇	zeoi6
 藈	gwai1	0%
 藈	kwai1
-藉	ze3
+藉	ze3	0%
 藉	ze6	5%
-藉	zik6	5%
+藉	zik6
 藊	bin2
 藋	dik6
 藋	diu3
@@ -24011,7 +23984,6 @@ min_phrase_weight: 100
 鍉	dik1	0%
 鍉	dik6	0%
 鍉	si4
-鍊	lin2
 鍊	lin6
 鍋	wo1
 鍌	sin2	0%
@@ -24158,9 +24130,9 @@ min_phrase_weight: 100
 鏆	gwun3
 鏇	syun4
 鏇	syun6	5%
-鏈	lin2
-鏈	lin4	5%
-鏈	lin6
+鏈	lin2	0%
+鏈	lin4
+鏈	lin6	0%
 鏊	ngou4
 鏊	ngou6
 鏋	mun5
