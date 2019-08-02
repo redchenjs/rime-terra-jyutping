@@ -6083,7 +6083,6 @@ min_phrase_weight: 100
 圌	cyun4
 圌	seoi4
 圍	wai4
-園	jyun2
 園	jyun4
 圓	jyun4
 圔	jap1
@@ -7405,6 +7404,7 @@ min_phrase_weight: 100
 孿	syun3	0%
 宀	min4
 宁	cyu5
+宁	ning4	0%
 宂	jung2
 它	keoi5
 它	taa1
@@ -7517,8 +7517,7 @@ min_phrase_weight: 100
 寤	ng6
 寥	liu4
 實	sat6
-寧	cyu5
-寧	ning4	0%
+寧	ning4
 寧	ning6	0%
 寨	zaai6
 寨	zai6	0%
@@ -22005,7 +22004,7 @@ min_phrase_weight: 100
 責	zaak3
 貭	zat1
 貭	zi3
-貯	cyu2
+貯	cyu2	0%
 貯	cyu5
 貯	zyu2	0%
 貰	sai3
