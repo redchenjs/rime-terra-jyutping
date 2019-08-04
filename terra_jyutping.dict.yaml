@@ -6007,6 +6007,7 @@ min_phrase_weight: 100
 崿	ngok6
 嵀	cyu5
 嵁	ham1
+嵂	leot6
 嵃	jin5
 嵃	jin6
 嵅	ham4
@@ -14824,13 +14825,20 @@ min_phrase_weight: 100
 籽	zi2
 籾	lei4
 籾	nei4
+籿	cun3
+粀	zoeng6
+粁	cing1
 粃	bei2
 粃	pei4
 粄	bun2
+粅	mat6
 粆	saa1
+粈	jau5
 粈	nau5
 粉	fan2
 粊	bei3
+粌	jan5
+粍	zaak3
 粎	mai5
 粑	baa1
 粒	lap1
@@ -14845,6 +14853,7 @@ min_phrase_weight: 100
 粘	zim1
 粞	sai1
 粟	suk1
+粡	tung4
 粢	ci1
 粢	zi1
 粣	saan2
@@ -14852,11 +14861,14 @@ min_phrase_weight: 100
 粥	zuk1
 粦	leon4
 粧	zong1
+粨	baak3
 粬	kuk1
+粯	jin6
 粱	loeng4
 粲	caan3
 粳	gaang1
 粳	gang1
+粴	lei5
 粵	jyut6
 粸	kei4
 粹	seoi3
@@ -14941,6 +14953,7 @@ min_phrase_weight: 100
 紀	gei3
 紁	caa3
 紂	zau6
+紃	ceon4
 紃	seon4
 約	joek3
 紅	gung1
@@ -18385,6 +18398,7 @@ min_phrase_weight: 100
 覂	fung3
 覃	cam4
 覃	taam4
+覅	fiu3
 覆	fau6
 覆	fu3
 覆	fuk1
@@ -18409,6 +18423,7 @@ min_phrase_weight: 100
 覘	zim1
 覚	gaau3
 覚	gok3
+覛	mak6
 覛	mik6
 覜	tiu3
 覝	lim4
@@ -21128,6 +21143,8 @@ min_phrase_weight: 100
 鏒	sam3
 鏓	cung1
 鏔	ji4
+鏕	luk6
+鏕	ou1
 鏖	ngou1
 鏖	ngou4
 鏖	ou1
