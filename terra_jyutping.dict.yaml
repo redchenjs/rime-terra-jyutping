@@ -9,7 +9,7 @@
 
 ---
 name: terra_jyutping
-version: "2019.08.03"
+version: "2019.08.05"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -24840,18 +24840,39 @@ min_phrase_weight: 100
 貫	gwun3
 
 # 粵音詞典
-毋通	m4 tung1
-乜嘢	mat1 je5
-乜嘢	me1 je5
+點得	dim2 dak1
+點係	dim2 hai6
+點解	dim2 gaai2
+點講	dim2 gong2
+點好	dim2 hou2
+點賣	dim2 maai6
+點算	dim2 syun3
+點睇	dim2 tai2
+點話	dim2 waa6
+點會	dim2 wui5
+點樣	dim2 joeng6
+點知	dim2 zi1
+點做	dim2 zou6
 噉樣	gam2 joeng6
 隔離	gaak3 lei4
-焉道	bin1 dou3
-邊度	bin1 dou3
-爾道	ni1 dou3
-呢度	ni1 dou3
-嗰度	go3 dou3
+做乜	zou6 mat1
+做咩	zou6 me1
+乜嘢	mat1 je5
+咩嘢	me1 je5
+唔通	m4 tung1
+邊度	bin1 dou6
+嗰度	go2 dou6
+呢度	ni1 dou6
+邊個	bin1 go3
+嗰個	go2 go3
+呢個	ni1 go3
+邊位	bin1 wai6
+嗰位	go2 wai6
+呢位	ni1 wai6
+邊種	bin1 zung2
+嗰種	go2 zung2
+呢種	ni1 zung2
 尋日	cam4 jat6
-琴日	kam4 jat6
 而今	ji4 gaa1
 聽日	ting1 jat6
 朝早	ziu1 zou2
@@ -24859,6 +24880,11 @@ min_phrase_weight: 100
 晏晝	aan3 zau3
 下晝	haa6 zau3
 人哋	jan4 dei6
+我哋	ngo5 dei6
 你哋	nei5 dei6
+佢哋	keoi5 dei6
+細佬	sai3 lou2
 細路	sai3 lou6
-鶻突	wat6 dat6
+畀我	bei3 ngo5
+畀你	bei3 nei5
+畀佢	bei3 keoi5
