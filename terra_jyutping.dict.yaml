@@ -2058,6 +2058,9 @@ min_phrase_weight: 100
 从	zung1
 从	zung3
 从	zung6
+仏	bat6
+仏	fat1
+仏	fat6
 仑	leon4
 仓	cong1
 仔	zai2
@@ -7029,6 +7032,9 @@ min_phrase_weight: 100
 巵	zi1
 巷	hong6
 巹	gan2
+巻	gyun2
+巻	gyun3
+巻	kyun4
 巽	seon3
 巾	gan1
 巿	fat1
@@ -8821,6 +8827,8 @@ min_phrase_weight: 100
 捘	zyun3
 捙	jai6
 捚	zaai1
+捜	sau1
+捜	sau2
 捝	seoi3
 捝	tyut3
 捞	laau1
@@ -16074,6 +16082,7 @@ min_phrase_weight: 100
 穀	gau3
 穀	guk1
 穀	huk6
+穂	seoi6
 穃	jung4
 穄	zai3
 穅	hong1
@@ -18734,6 +18743,7 @@ min_phrase_weight: 100
 苌	coeng4
 苍	cong1
 苍	cong2
+苎	cyu5
 苏	sou1
 苐	dai6
 苐	ji4
