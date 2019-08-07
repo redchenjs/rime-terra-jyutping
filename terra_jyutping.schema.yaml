@@ -4,7 +4,7 @@
 schema:
   schema_id: terra_jyutping
   name: 地球粵拼
-  version: "1.1"
+  version: "1.2"
   author:
     - Jack Chen <redchenjs@live.com>
   description: |
@@ -14,6 +14,7 @@ schema:
     調號   1   2   3   4   5   6
     按鍵   q   s   x   v   f   r
   dependencies:
+    - cangjie5
     - luna_pinyin
 
 switches:
@@ -41,15 +42,19 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
+    - affix_segmentor@pinyin
+    - affix_segmentor@cangjie
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
+    - script_translator@pinyin
+    - script_translator@cangjie
   filters:
     - simplifier
     - uniquifier
+    - reverse_lookup_filter@reverse_lookup
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -89,15 +94,31 @@ translator:
     - xform/([a-z])f/\15/        # f$ => 5
     - xform/([a-z])r/\16/        # r$ => 6
 
-reverse_lookup:
+pinyin:
+  tag: pinyin
   dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
+    - xform/^/`/
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+cangjie:
+  tag: cangjie
+  dictionary: cangjie5
+  prefix: "~"
+  suffix: "'"
+  tips: 〔倉頡〕
+  preedit_format:
+    - xform/^/~/
+    - xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|
+
+reverse_lookup:
+  tags: [ pinyin, cangjie ]
+  dictionary: terra_jyutping
 
 punctuator:
   import_preset: default
@@ -108,4 +129,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    pinyin:  "`[a-z]*'?$"
+    cangjie: "~[a-z]*'?$"
