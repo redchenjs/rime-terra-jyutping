@@ -10,7 +10,7 @@
 
 ---
 name: terra_jyutping
-version: "2019.08.06"
+version: "2019.08.07"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
