@@ -10762,10 +10762,8 @@ min_phrase_weight: 100
 啭	zyun2
 啭	zyun3	0%
 啮	jit3	0%
-啮	jit6
 啮	jit6	0%
 啮	ngaat6	0%
-啮	ngit6
 啮	ngit6	0%
 啯	gwok3
 啰	lo1
@@ -13928,10 +13926,8 @@ min_phrase_weight: 100
 弢	tou1
 弣	fu2
 弤	dai2
-弥	mei4
 弥	mei4	0%
 弥	mei5	0%
-弥	nei4
 弥	nei4	0%
 弦	jin4
 弦	jyun4	0%
@@ -14372,7 +14368,6 @@ min_phrase_weight: 100
 恶	ngok3	0%
 恶	ok3
 恶	wu1
-恶	wu3
 恶	wu3	0%
 恷	jau1
 恸	dung6
@@ -18368,7 +18363,6 @@ min_phrase_weight: 100
 汆	cyun1
 汆	mei6
 汇	wai6
-汇	wui6
 汇	wui6	0%
 汈	diu1
 汉	hon3
@@ -20384,7 +20378,6 @@ min_phrase_weight: 100
 牤	mong1
 牦	lei4
 牦	maau4	0%
-牦	mou4
 牦	mou4	0%
 牧	muk6
 物	mat6
@@ -27466,7 +27459,6 @@ min_phrase_weight: 100
 袄	ngou3	0%
 袄	ou2
 袄	ou3	0%
-袅	niu1
 袅	niu1	0%
 袅	niu5
 袆	fai1
