@@ -10,7 +10,7 @@
 
 ---
 name: terra_jyutping
-version: "2019.08.08"
+version: "2019.08.12"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8146,14 +8146,14 @@ min_phrase_weight: 100
 丞	sing4
 丟	diu1
 丠	jau1
-両	loeng2	0%
+両	loeng2
 両	loeng5
 両	loeng6
 丢	diu1
 丣	cau4
 丣	jau4
 丣	jau5
-两	loeng2	0%
+两	loeng2
 两	loeng5
 两	loeng6
 严	jim4
@@ -8294,7 +8294,7 @@ min_phrase_weight: 100
 互	wu6
 亓	kei4
 五	ng5
-井	zeng2	0%
+井	zeng2
 井	zing2
 亗	seoi3
 亘	gang2
@@ -8361,7 +8361,7 @@ min_phrase_weight: 100
 亿	jik1
 什	sam6
 什	sap6
-什	zaap6	0%
+什	zaap6
 仁	jan4
 仂	lak6
 仂	lik6	0%
@@ -8371,7 +8371,7 @@ min_phrase_weight: 100
 仅	gan6	0%
 仆	buk6
 仆	fu6
-仆	puk1	0%
+仆	puk1
 仇	cau4	0%
 仇	kau4
 仇	sau4
@@ -8381,11 +8381,11 @@ min_phrase_weight: 100
 介	gaa3
 介	gaai3
 仍	jing4
-从	cung1	0%
+从	cung1
 从	cung4
 从	sung1
 从	zung1
-从	zung3	0%
+从	zung3
 从	zung6
 仏	bat6
 仏	fat1
@@ -8531,7 +8531,7 @@ min_phrase_weight: 100
 伲	nei5
 伳	sit3
 伴	bun6
-伴	pun5	0%
+伴	pun5
 伶	ling4
 伷	zau3
 伷	zau6
@@ -8632,7 +8632,7 @@ min_phrase_weight: 100
 佸	wut6
 佹	gwai2
 佺	cyun4
-佻	tiu1	0%
+佻	tiu1
 佻	tiu4
 佼	gaau2
 佽	ci3
@@ -8717,7 +8717,7 @@ min_phrase_weight: 100
 侻	tyut3
 侽	laam4
 侽	naam4
-便	bin2	0%
+便	bin2
 便	bin6
 便	pin4
 俀	teoi2
@@ -8828,7 +8828,7 @@ min_phrase_weight: 100
 們	mun4
 倒	dou2
 倒	dou3
-倓	daam6	0%
+倓	daam6
 倓	taam4
 倔	gwat6
 倕	seoi4
@@ -9253,7 +9253,7 @@ min_phrase_weight: 100
 內	naap6
 內	noi6
 全	cyun4
-兩	loeng2	0%
+兩	loeng2
 兩	loeng5
 兩	loeng6
 兪	jyu4
@@ -9366,7 +9366,7 @@ min_phrase_weight: 100
 冼	sin2
 冽	lit6
 冾	haap6
-净	zeng6	0%
+净	zeng6
 净	zing6
 凂	man5
 凂	mui5
@@ -9377,7 +9377,7 @@ min_phrase_weight: 100
 凅	gu3
 准	zeon2
 凇	sung1
-凈	zeng6	0%
+凈	zeng6
 凈	zing6
 凉	loeng4
 凉	loeng6
@@ -9435,7 +9435,7 @@ min_phrase_weight: 100
 凶	hung1
 凷	faai3
 凸	dat6
-凸	gu2	0%
+凸	gu2
 凹	aau1	0%
 凹	aau3	0%
 凹	lap1	0%
@@ -9642,7 +9642,7 @@ min_phrase_weight: 100
 劄	zaat3	0%
 劆	lim4
 劇	kek6
-劈	pek3	0%
+劈	pek3
 劈	pek6	0%
 劈	pik1
 劉	lau4
@@ -9660,7 +9660,7 @@ min_phrase_weight: 100
 劓	ji6
 劔	gim3
 劖	caam4
-劖	caam5	0%
+劖	caam5
 劗	zin2	0%
 劗	zyun1
 劘	mo4
@@ -9906,7 +9906,7 @@ min_phrase_weight: 100
 卡	kaa1
 卡	kaa2	0%
 卡	kaat1	0%
-卡	zaap6	0%
+卡	zaap6
 卢	leoi4
 卢	lou4
 卣	jau5
@@ -10284,7 +10284,7 @@ min_phrase_weight: 100
 呑	tan1
 呒	fu2
 呒	m4
-呒	mou5	0%
+呒	mou5
 呓	ngai6
 呔	taai1
 呔	toi2
@@ -10357,7 +10357,7 @@ min_phrase_weight: 100
 呺	hou4
 呻	san1
 呼	fu1
-命	meng6	0%
+命	meng6
 命	ming6
 呾	daat3
 呾	taan2
@@ -10665,7 +10665,7 @@ min_phrase_weight: 100
 唵	ngam2	0%
 唶	zaak3
 唶	ze3
-唶	zik1	0%
+唶	zik1
 唷	jo1
 唸	din6
 唸	nim6
@@ -11097,7 +11097,7 @@ min_phrase_weight: 100
 嘪	maai5
 嘬	caai3
 嘬	ceoi3	0%
-嘬	zyut3	0%
+嘬	zyut3
 嘭	baang4
 嘭	paang1
 嘭	paang4
@@ -11116,7 +11116,7 @@ min_phrase_weight: 100
 嘷	hou4
 嘸	fu2
 嘸	m4
-嘸	mou5	0%
+嘸	mou5
 嘹	liu4
 嘺	kiu4
 嘻	hei1
@@ -11359,7 +11359,7 @@ min_phrase_weight: 100
 囧	gwing2
 囪	coeng1
 囪	cung1
-囪	tung1	0%
+囪	tung1
 囫	fat1
 囫	wat6	0%
 囬	wui4
@@ -11370,7 +11370,7 @@ min_phrase_weight: 100
 困	kwan3
 囱	coeng1
 囱	cung1
-囱	tung1	0%
+囱	tung1
 囲	wai4
 図	tou4
 围	wai4
@@ -11426,7 +11426,7 @@ min_phrase_weight: 100
 圧	ngaat3	0%
 在	zoi6
 圩	heoi1
-圩	jyu4	0%
+圩	jyu4
 圩	wai4
 圪	gat6	0%
 圪	ngat6
@@ -11478,7 +11478,7 @@ min_phrase_weight: 100
 坏	pui1
 坏	pui4
 坏	waai6
-坐	co5	0%
+坐	co5
 坐	zo6
 坑	haang1
 坒	bai6
@@ -11490,7 +11490,7 @@ min_phrase_weight: 100
 坜	lek6	0%
 坜	lik6
 坝	baa3
-坞	ou3	0%
+坞	ou3
 坞	wu2
 坟	fan4
 坟	fan5
@@ -11577,12 +11577,12 @@ min_phrase_weight: 100
 垩	ngok3	0%
 垩	ok3
 垪	bing6
-垫	dim3	0%
-垫	din2	0%
+垫	dim3
+垫	din2
 垫	din3
-垫	din6	0%
+垫	din6
 垫	dip6
-垫	zin3	0%
+垫	zin3
 垭	aa3
 垭	ngaa3	0%
 垮	kwaa1
@@ -11762,9 +11762,9 @@ min_phrase_weight: 100
 堯	jiu4
 堰	jin2
 報	bou3
-堲	zat1	0%
+堲	zat1
 堲	zik1
-堲	zik6	0%
+堲	zik6
 堳	mei4
 場	coeng4
 堵	dou2
@@ -11822,7 +11822,7 @@ min_phrase_weight: 100
 塟	zong3
 塡	tin4
 塡	zan3
-塢	ou3	0%
+塢	ou3
 塢	wu2
 塣	cing2
 塤	fan1	0%
@@ -11867,12 +11867,12 @@ min_phrase_weight: 100
 墇	zoeng1
 墈	ham3
 墉	jung4
-墊	dim3	0%
-墊	din2	0%
+墊	dim3
+墊	din2
 墊	din3
-墊	din6	0%
+墊	din6
 墊	dip6
-墊	zin3	0%
+墊	zin3
 墋	cam2
 墍	gei6
 墍	hei3
@@ -11935,7 +11935,7 @@ min_phrase_weight: 100
 墾	han2
 墿	jik6
 墿	tou4
-壁	bek3	0%
+壁	bek3
 壁	bik1
 壁	bik3	0%
 壂	din6
@@ -11994,7 +11994,7 @@ min_phrase_weight: 100
 壯	zong1
 壯	zong3
 壯	zong6
-声	seng1	0%
+声	seng1
 声	sing1
 壱	jat1
 壱	jik1
@@ -12118,8 +12118,8 @@ min_phrase_weight: 100
 奏	cau3
 奏	zau3
 奐	wun6
-契	hat1	0%
-契	kai2	0%
+契	hat1
+契	kai2
 契	kai3
 契	kit3
 契	sit3
@@ -12420,7 +12420,7 @@ min_phrase_weight: 100
 娳	lei6
 娴	haan4
 娵	zeoi1
-娶	ceoi2	0%
+娶	ceoi2
 娶	ceoi3
 娷	seoi6
 娷	zeoi6
@@ -12730,7 +12730,7 @@ min_phrase_weight: 100
 嬼	liu5
 嬽	jyun1
 嬾	laan5
-嬿	jin2	0%
+嬿	jin2
 嬿	jin3
 孀	soeng1
 孁	ling4
@@ -12959,7 +12959,7 @@ min_phrase_weight: 100
 射	je6
 射	jik6
 射	se6
-射	sik6	0%
+射	sik6
 尅	haak1	0%
 尅	hak1
 将	coeng1
@@ -13037,7 +13037,7 @@ min_phrase_weight: 100
 尽	zeon6
 尾	mei5
 尿	niu6
-尿	seoi1	0%
+尿	seoi1
 局	guk6
 屁	pei3
 层	cang4
@@ -13688,7 +13688,7 @@ min_phrase_weight: 100
 幱	laan4
 干	gon1
 干	gon3
-平	peng4	0%
+平	peng4
 平	ping4
 年	nin4
 幵	gin1	0%
@@ -13761,7 +13761,7 @@ min_phrase_weight: 100
 庥	jau1
 度	dok6
 度	dou6
-座	zo2	0%
+座	zo2
 座	zo6
 庨	haau1
 庪	gei2	0%
@@ -14076,11 +14076,11 @@ min_phrase_weight: 100
 徐	ceoi4
 徑	ging3
 徒	tou4
-従	cung1	0%
+従	cung1
 従	cung4
 従	sung1
 従	zung1
-従	zung3	0%
+従	zung3
 従	zung6
 徕	loi4
 徕	loi6
@@ -14091,11 +14091,11 @@ min_phrase_weight: 100
 徛	gei3
 徛	kei5	0%
 徜	soeng4
-從	cung1	0%
+從	cung1
 從	cung4
 從	sung1
 從	zung1
-從	zung3	0%
+從	zung3
 從	zung6
 徟	zau1
 徠	loi4
@@ -14233,7 +14233,7 @@ min_phrase_weight: 100
 怄	ngau1	0%
 怅	coeng3
 怅	zoeng3	0%
-怆	cong2	0%
+怆	cong2
 怆	cong3
 怉	baau2
 怉	pou5
@@ -14301,7 +14301,7 @@ min_phrase_weight: 100
 怹	taa1
 总	zung2
 怼	deoi6
-怼	zeoi6	0%
+怼	zeoi6
 怿	jik6
 恀	ci2
 恁	jam5	0%
@@ -14336,7 +14336,7 @@ min_phrase_weight: 100
 恚	wai3	0%
 恚	wai6
 恛	wui4
-恝	aat3	0%
+恝	aat3
 恝	gaat3
 恝	git3	0%
 恞	ji4
@@ -14469,7 +14469,7 @@ min_phrase_weight: 100
 悿	tim2
 悿	tin2
 惀	leon4
-惀	leon6	0%
+惀	leon6
 惁	sik3
 惃	gwan2
 惄	nik6
@@ -14615,7 +14615,7 @@ min_phrase_weight: 100
 愰	fong2
 愰	jiu6
 愲	gwat1
-愴	cong2	0%
+愴	cong2
 愴	cong3
 愶	hip3
 愷	hoi2
@@ -14638,7 +14638,7 @@ min_phrase_weight: 100
 慈	ci4
 慉	cuk1
 慉	huk1	0%
-慊	him2	0%
+慊	him2
 慊	him3
 慊	hip3
 態	taai3
@@ -14820,7 +14820,7 @@ min_phrase_weight: 100
 懜	mung5
 懞	mung5
 懟	deoi6
-懟	zeoi6	0%
+懟	zeoi6
 懠	cai4
 懠	zai6	0%
 懢	laam4
@@ -14896,7 +14896,7 @@ min_phrase_weight: 100
 戙	dong6	0%
 戙	dung6
 戚	cik1
-戛	aat3	0%
+戛	aat3
 戛	gaat3
 戛	git3	0%
 戝	caak6
@@ -15003,7 +15003,7 @@ min_phrase_weight: 100
 扞	hon2	0%
 扞	hon6
 扠	caa1
-扠	zaa3	0%
+扠	zaa3
 扡	ci2	0%
 扡	to1
 扢	goi3	0%
@@ -15268,7 +15268,7 @@ min_phrase_weight: 100
 挅	do2
 挆	do2
 指	zi2
-挈	hit3	0%
+挈	hit3
 挈	kit3
 按	ngon3	0%
 按	on3
@@ -15414,7 +15414,7 @@ min_phrase_weight: 100
 捝	tyut3
 捞	laau1	0%
 捞	laau4	0%
-捞	lou1	0%
+捞	lou1
 捞	lou4
 损	syun2
 捡	gim2
@@ -15469,7 +15469,7 @@ min_phrase_weight: 100
 掀	hin3	0%
 掁	caang4
 掂	dim1
-掂	dim6	0%
+掂	dim6
 掃	sou2	0%
 掃	sou3
 掄	leon4
@@ -15864,7 +15864,7 @@ min_phrase_weight: 100
 撇	pit3
 撈	laau1	0%
 撈	laau4	0%
-撈	lou1	0%
+撈	lou1
 撈	lou4
 撉	dan3	0%
 撉	deon1
@@ -15895,7 +15895,7 @@ min_phrase_weight: 100
 撗	gwong3
 撘	daap3
 撙	zyun2
-撚	nan2	0%
+撚	nan2
 撚	nin2
 撚	nin5	0%
 撜	caang4
@@ -15922,7 +15922,7 @@ min_phrase_weight: 100
 撩	liu6
 撫	fu2
 撬	giu6
-撬	hiu3	0%
+撬	hiu3
 播	bo3
 撮	cyut3
 撯	zoek3
@@ -16089,7 +16089,7 @@ min_phrase_weight: 100
 攗	mei4
 攘	joeng4
 攘	joeng5
-攘	joeng6	0%
+攘	joeng6
 攙	caam1
 攛	cyun1	0%
 攛	cyun3
@@ -16246,7 +16246,7 @@ min_phrase_weight: 100
 斆	bang1
 斆	haau6
 斆	hok6
-文	man1	0%
+文	man1
 文	man4
 文	man6
 斈	hok6
@@ -16284,7 +16284,7 @@ min_phrase_weight: 100
 斡	waat3
 斢	tau2
 斤	gan1
-斤	gan3	0%
+斤	gan3
 斥	cik1
 斧	fu2
 斨	coeng1
@@ -16294,7 +16294,7 @@ min_phrase_weight: 100
 斬	zaam2
 断	dyun3
 断	dyun6
-断	tyun5	0%
+断	tyun5
 斮	zoek3
 斯	si1
 新	san1
@@ -16306,7 +16306,7 @@ min_phrase_weight: 100
 斶	cuk1
 斷	dyun3
 斷	dyun6
-斷	tyun5	0%
+斷	tyun5
 斸	zuk1
 方	fong1
 斻	hong4
@@ -16582,7 +16582,7 @@ min_phrase_weight: 100
 暙	ceon1
 暚	jiu4
 暝	ming4
-暝	ming5	0%
+暝	ming5
 暝	ming6
 暟	hoi2
 暠	gou2
@@ -16668,7 +16668,7 @@ min_phrase_weight: 100
 曬	saai3
 曭	tong2
 曮	jim5
-曰	joek6	0%
+曰	joek6
 曰	jyut6
 曱	gaak6
 曱	gaap3
@@ -16764,8 +16764,8 @@ min_phrase_weight: 100
 朱	syu4
 朱	zyu1
 朳	paa4
-朴	piu4	0%
-朴	po1	0%
+朴	piu4
+朴	po1
 朴	pok3
 朵	do2
 朵	doe2	0%
@@ -16780,7 +16780,7 @@ min_phrase_weight: 100
 朻	gau1
 朼	bei2
 朽	jau2
-朽	nau2	0%
+朽	nau2
 朽	nau5	0%
 朾	caang4
 朾	ting1
@@ -18091,7 +18091,7 @@ min_phrase_weight: 100
 歠	zyut3
 歡	fun1
 止	zi2
-正	zeng3	0%
+正	zeng3
 正	zing1
 正	zing3
 此	ci2
@@ -18279,7 +18279,7 @@ min_phrase_weight: 100
 氀	leoi4
 氁	mou4
 氂	lei4
-氂	mou4	0%
+氂	mou4
 氃	tung4
 氄	jung5
 氅	cong2
@@ -18300,7 +18300,7 @@ min_phrase_weight: 100
 氓	maang4	0%
 氓	man4
 氓	mang4	0%
-氓	mong4	0%
+氓	mong4
 氓	mong5	0%
 气	hei3
 氕	pit3
@@ -18366,7 +18366,7 @@ min_phrase_weight: 100
 汃	ban1
 汃	paak3
 汆	cyun1
-汆	mei6	0%
+汆	mei6
 汇	wai6
 汇	wui6
 汇	wui6	0%
@@ -18730,7 +18730,7 @@ min_phrase_weight: 100
 浂	jat6
 浃	gaap3
 浃	zip3
-浄	zeng6	0%
+浄	zeng6
 浄	zing6
 浅	cin2
 浅	zin1
@@ -18944,7 +18944,7 @@ min_phrase_weight: 100
 淡	daam6
 淡	jim5
 淡	taam4
-淡	taam5	0%
+淡	taam5
 淢	gwik1
 淢	kwik1	0%
 淢	wik6
@@ -18956,7 +18956,7 @@ min_phrase_weight: 100
 淥	luk6
 淦	gaam3	0%
 淦	gam3
-淨	zeng6	0%
+淨	zeng6
 淨	zing6
 淩	ling4
 淪	leon4
@@ -18968,7 +18968,7 @@ min_phrase_weight: 100
 淯	juk6
 淰	naam5
 淰	nam4
-淰	nim2	0%
+淰	nim2
 淰	sam2
 深	sam1
 淲	piu4
@@ -19008,7 +19008,7 @@ min_phrase_weight: 100
 渌	luk6
 渍	zi3
 渍	zi6	0%
-渍	zik1	0%
+渍	zik1
 渎	dau6
 渎	duk6
 渏	ji1
@@ -19370,11 +19370,11 @@ min_phrase_weight: 100
 漩	syun4
 漪	ji1
 漪	ji2	0%
-漫	maan4	0%
+漫	maan4
 漫	maan6
 漬	zi3
 漬	zi6	0%
-漬	zik1	0%
+漬	zik1
 漭	mong5
 漮	hong1
 漯	leoi5
@@ -19831,7 +19831,7 @@ min_phrase_weight: 100
 炓	tau3
 炔	gai3
 炔	kyut3
-炕	hong3	0%
+炕	hong3
 炕	kong3
 炖	dan6
 炖	deon6	0%
@@ -19846,7 +19846,7 @@ min_phrase_weight: 100
 炠	saap6
 炡	zing1
 炣	ho2
-炤	ciu1	0%
+炤	ciu1
 炤	ziu1
 炤	ziu3
 炥	fat6
@@ -20092,7 +20092,7 @@ min_phrase_weight: 100
 煳	mou4
 煳	wu4
 煴	wan1
-煴	wan2	0%
+煴	wan2
 煴	wat1
 煵	laam4
 煵	naam4
@@ -20110,7 +20110,7 @@ min_phrase_weight: 100
 熂	hei3
 熄	sik1
 熅	wan1
-熅	wan2	0%
+熅	wan2
 熅	wat1
 熆	hap6
 熇	haau2
@@ -20384,6 +20384,7 @@ min_phrase_weight: 100
 牤	mong1
 牦	lei4
 牦	maau4	0%
+牦	mou4
 牦	mou4	0%
 牧	muk6
 物	mat6
@@ -20696,7 +20697,7 @@ min_phrase_weight: 100
 獥	hat6
 獦	got3
 獦	hot3
-獦	lip6	0%
+獦	lip6
 獧	gyun3
 獨	duk6
 獩	wai3
@@ -21226,7 +21227,7 @@ min_phrase_weight: 100
 甫	pou3
 甬	jung2
 甬	jung5	0%
-甭	bang2	0%
+甭	bang2
 甭	bat1
 甭	bung2	0%
 甮	fung6
@@ -21259,7 +21260,7 @@ min_phrase_weight: 100
 甾	zi1
 甾	zoi1
 甿	man4	0%
-甿	mang4	0%
+甿	mang4
 甿	mong4
 畀	bei2	0%
 畀	bei3
@@ -21313,7 +21314,7 @@ min_phrase_weight: 100
 畫	waak6
 畬	jyu4
 畬	se1
-畬	se4	0%
+畬	se4
 畭	jyu4
 畭	se1
 畭	se4
@@ -21377,7 +21378,7 @@ min_phrase_weight: 100
 疒	nik6
 疓	naai3
 疓	naai4
-疔	deng1	0%
+疔	deng1
 疔	ding1
 疕	bei2	0%
 疕	pei2
@@ -21595,7 +21596,7 @@ min_phrase_weight: 100
 瘩	daat6	0%
 瘪	bit6
 瘫	taan1
-瘫	taan2	0%
+瘫	taan2
 瘬	zoeng3
 瘭	biu1
 瘮	sam3
@@ -21687,7 +21688,7 @@ min_phrase_weight: 100
 癰	jung1
 癰	jung2	0%
 癱	taan1
-癱	taan2	0%
+癱	taan2
 癲	din1
 癳	lo2
 癴	lyun4
@@ -21902,7 +21903,7 @@ min_phrase_weight: 100
 眦	zai6	0%
 眦	zi6
 眧	ciu1
-眨	zaam2	0%
+眨	zaam2
 眨	zaap3
 眩	jyun4	0%
 眩	jyun6
@@ -22602,7 +22603,7 @@ min_phrase_weight: 100
 祟	seoi6
 祠	ci4
 祡	caai4
-祢	nai5	0%
+祢	nai5
 祢	nei4
 祢	nei5
 祣	leoi5
@@ -22696,7 +22697,7 @@ min_phrase_weight: 100
 禬	wui6	0%
 禭	seoi6
 禮	lai5
-禰	nai5	0%
+禰	nai5
 禰	nei4
 禰	nei5
 禱	dou2	0%
@@ -22897,8 +22898,8 @@ min_phrase_weight: 100
 穡	sik1
 穢	wai3
 穣	joeng4
-穣	joeng5	0%
-穣	joeng6	0%
+穣	joeng5
+穣	joeng6
 穤	no6
 穥	jyu6
 穧	zai3	0%
@@ -22915,8 +22916,8 @@ min_phrase_weight: 100
 穭	leoi5
 穮	biu1
 穰	joeng4
-穰	joeng5	0%
-穰	joeng6	0%
+穰	joeng5
+穰	joeng6
 穱	zoek3
 穱	zuk1
 穲	lei4
@@ -22940,14 +22941,14 @@ min_phrase_weight: 100
 穿	cyun1
 窀	zeon1
 突	dat6
-突	duk1	0%
+突	duk1
 窃	sit3
 窄	zaak3
 窅	jiu2
 窆	bin2
 窇	bok6
 窈	jiu2
-窈	miu5	0%
+窈	miu5
 窉	bing2
 窊	waa1
 窋	fat1
@@ -23533,7 +23534,7 @@ min_phrase_weight: 100
 粖	mut6
 粗	cou1
 粘	nim4
-粘	zim1	0%
+粘	zim1
 粛	suk1
 粜	tiu3
 粝	lai6
@@ -23569,7 +23570,7 @@ min_phrase_weight: 100
 粼	leon4
 粽	zung2	0%
 粽	zung3
-精	zeng1	0%
+精	zeng1
 精	zing1
 粿	gwo2
 糁	saam2
@@ -23665,7 +23666,7 @@ min_phrase_weight: 100
 紈	jyun4
 紉	jan4	0%
 紉	jan6
-紊	leon6	0%
+紊	leon6
 紊	man5	0%
 紊	man6
 紋	man4
@@ -23829,7 +23830,7 @@ min_phrase_weight: 100
 綂	tung2
 綃	siu1
 綄	wun4
-綄	wun5	0%
+綄	wun5
 綅	cam1
 綅	cim1
 綆	gang2
@@ -23960,7 +23961,7 @@ min_phrase_weight: 100
 緩	wun6
 緪	gang1
 緪	gang2
-緪	gang3	0%
+緪	gang3
 緬	min5
 緮	fau6
 緯	wai5
@@ -23979,7 +23980,7 @@ min_phrase_weight: 100
 緷	wan6
 緹	tai4
 緺	gwaa1
-緺	gwo1	0%
+緺	gwo1
 緺	waa1	0%
 緻	zi3
 緼	wan1
@@ -24103,7 +24104,7 @@ min_phrase_weight: 100
 繐	seoi3	0%
 繐	seoi6
 繑	hiu1
-繑	kiu5	0%
+繑	kiu5
 繒	cang4	0%
 繒	zang1
 繒	zang6
@@ -24174,7 +24175,7 @@ min_phrase_weight: 100
 纆	mak6
 纇	leoi6
 纈	kit3
-纈	lit3	0%
+纈	lit3
 纉	zyun2
 纊	kong3	0%
 纊	kwong3
@@ -24189,7 +24190,7 @@ min_phrase_weight: 100
 纎	hin1
 纎	hin3
 纏	cin4
-纏	zin6	0%
+纏	zin6
 纑	lou4
 纒	cin4
 纒	zin6
@@ -24401,7 +24402,7 @@ min_phrase_weight: 100
 缞	ceoi1
 缟	gou2
 缠	cin4
-缠	zin6	0%
+缠	zin6
 缡	lei4
 缢	ai3
 缢	ngai3	0%
@@ -24421,7 +24422,7 @@ min_phrase_weight: 100
 缪	muk6
 缫	sou1
 缬	kit3
-缬	lit3	0%
+缬	lit3
 缭	liu4
 缮	sin6
 缯	cang4	0%
@@ -24553,7 +24554,7 @@ min_phrase_weight: 100
 羊	joeng4
 羋	me1
 羋	me5	0%
-羋	mei5	0%
+羋	mei5
 羌	goeng1
 羍	taat3
 美	mei5
@@ -24589,7 +24590,7 @@ min_phrase_weight: 100
 義	ji6
 羬	haam4
 羬	kim4
-羬	ngaam4	0%
+羬	ngaam4
 羭	jyu4
 羮	gang1
 羮	long4
@@ -24727,7 +24728,7 @@ min_phrase_weight: 100
 耒	loi6	0%
 耔	zi2
 耕	gaang1
-耕	gang1	0%
+耕	gang1
 耖	caau2	0%
 耖	caau3
 耗	hou3
@@ -24821,10 +24822,10 @@ min_phrase_weight: 100
 聯	lyun4
 聰	cung1
 聱	ngou4
-聲	seng1	0%
+聲	seng1
 聲	sing1
 聳	sung2
-聴	teng1	0%
+聴	teng1
 聴	ting1
 聴	ting3
 聵	kui2
@@ -24841,12 +24842,12 @@ min_phrase_weight: 100
 聼	teng1
 聼	ting1
 聼	ting3
-聽	teng1	0%
+聽	teng1
 聽	ting1
 聽	ting3
 聾	lung4
 聿	jyut6	0%
-聿	leot6	0%
+聿	leot6
 聿	wat6
 肀	jyut6
 肀	leot6
@@ -25037,7 +25038,7 @@ min_phrase_weight: 100
 脈	mak6
 脉	maak6	0%
 脉	mak6
-脊	zek3	0%
+脊	zek3
 脊	zik3
 脌	lin1
 脌	nin1
@@ -25122,7 +25123,7 @@ min_phrase_weight: 100
 腋	jat6	0%
 腋	jik6
 腌	jim1
-腌	jip3	0%
+腌	jip3
 腍	jam6
 腍	nam4
 腍	nam5	0%
@@ -25539,7 +25540,7 @@ min_phrase_weight: 100
 芇	min4
 芈	me1
 芈	me5	0%
-芈	mei5	0%
+芈	mei5
 芊	cin1
 芋	jyu1
 芋	wu6
@@ -25593,7 +25594,7 @@ min_phrase_weight: 100
 芭	baa1
 芮	jeoi6
 芯	sam1
-芯	seon3	0%
+芯	seon3
 芰	gei6
 花	faa1
 花	waa4
@@ -26275,7 +26276,7 @@ min_phrase_weight: 100
 蓂	ming5	0%
 蓄	cuk1
 蓅	lau4
-蓆	zek6	0%
+蓆	zek6
 蓆	zik6
 蓇	gwat1
 蓉	jung4
@@ -26406,7 +26407,7 @@ min_phrase_weight: 100
 蔧	seoi6
 蔧	wai6	0%
 蔨	gyun6
-蔨	kwan5	0%
+蔨	kwan5
 蔩	jan4
 蔩	ji4	0%
 蔩	jin5	0%
@@ -26826,7 +26827,7 @@ min_phrase_weight: 100
 虾	haa4
 虿	caai3
 蚀	sik6
-蚀	sit6	0%
+蚀	sit6
 蚁	ngai5
 蚂	maa1
 蚂	maa5
@@ -27090,7 +27091,7 @@ min_phrase_weight: 100
 蝓	jyu4
 蝔	gaai1
 蝕	sik6
-蝕	sit6	0%
+蝕	sit6
 蝖	hyun1
 蝗	wong4
 蝘	jin2
@@ -27435,7 +27436,7 @@ min_phrase_weight: 100
 衭	fu1
 衭	fu3
 衮	gwan2
-衮	kwan2	0%
+衮	kwan2
 衯	fan1
 衯	pun4
 衰	ceoi1
@@ -27498,7 +27499,7 @@ min_phrase_weight: 100
 袜	mat6
 袝	fu6
 袞	gwan2
-袞	kwan2	0%
+袞	kwan2
 袟	dit6
 袠	dit6
 袡	jim4
@@ -27609,7 +27610,7 @@ min_phrase_weight: 100
 裻	duk1
 裼	sik3
 裼	tai3
-裼	tik1	0%
+裼	tik1
 製	zai3
 裾	geoi1
 裿	ji2
@@ -27810,7 +27811,7 @@ min_phrase_weight: 100
 覚	gaau3
 覚	gok3
 覛	mak6
-覛	mik6	0%
+覛	mik6
 覜	tiu3
 覝	lim4
 覞	jiu6
@@ -28192,7 +28193,7 @@ min_phrase_weight: 100
 諈	zeoi6
 諉	wai2
 諊	guk1
-請	ceng2	0%
+請	ceng2
 請	cing1
 請	cing2
 請	king4
@@ -28270,7 +28271,7 @@ min_phrase_weight: 100
 謂	wai6
 謄	tang4
 謅	zau1
-謅	zau3	0%
+謅	zau3
 謆	sin3
 謇	gin2
 謇	hin1	0%
@@ -28521,7 +28522,7 @@ min_phrase_weight: 100
 诊	zan2	0%
 诋	dai2
 诌	zau1
-诌	zau3	0%
+诌	zau3
 词	ci4
 诎	wat1
 诎	zeot1
@@ -28592,7 +28593,7 @@ min_phrase_weight: 100
 诵	zung6
 诶	e6
 诶	ei6	0%
-请	ceng2	0%
+请	ceng2
 请	cing1
 请	cing2
 请	king4
@@ -28953,7 +28954,7 @@ min_phrase_weight: 100
 贌	duk6
 贍	sim6
 贍	sin6	0%
-贏	jeng4	0%
+贏	jeng4
 贏	jing4
 贐	zeon2
 贐	zeon6	0%
@@ -29066,11 +29067,11 @@ min_phrase_weight: 100
 赠	zang6
 赡	sim6
 赡	sin6	0%
-赢	jeng4	0%
+赢	jeng4
 赢	jing4
 赣	gam3
 赣	gung3
-赤	cek3	0%
+赤	cek3
 赤	cik3
 赦	se3
 赧	naan2	0%
@@ -29175,7 +29176,7 @@ min_phrase_weight: 100
 趹	kyut3
 趺	fu1
 趻	cam2
-趼	gaan2	0%
+趼	gaan2
 趼	gin2
 趾	zi2
 趿	saap3
@@ -29219,7 +29220,7 @@ min_phrase_weight: 100
 跘	pun4
 跙	zeoi1
 跚	saan1
-跛	bai1	0%
+跛	bai1
 跛	bei3
 跛	bo2
 跜	nei4
@@ -29558,8 +29559,8 @@ min_phrase_weight: 100
 軆	ban6
 軆	tai2
 軉	juk1
-車	ce1	0%
-車	geoi1	0%
+車	ce1
+車	geoi1
 軋	aat3	0%
 軋	gaat3	0%
 軋	ngaat3	0%
@@ -29625,7 +29626,7 @@ min_phrase_weight: 100
 軻	o1
 軼	dit6
 軼	jat6
-軽	heng1	0%
+軽	heng1
 軽	hing1
 軾	sik1
 軿	ping4
@@ -29655,7 +29656,7 @@ min_phrase_weight: 100
 輒	zit3	0%
 輓	waan5
 輔	fu6
-輕	heng1	0%
+輕	heng1
 輕	hing1
 輖	zau1
 輗	ngai4
@@ -29750,8 +29751,8 @@ min_phrase_weight: 100
 轢	lik6	0%
 轣	lik6
 轤	lou4
-车	ce1	0%
-车	geoi1	0%
+车	ce1
+车	geoi1
 轧	aat3	0%
 轧	gaat3	0%
 轧	ngaat3	0%
@@ -29784,7 +29785,7 @@ min_phrase_weight: 100
 轹	lik1
 轹	lik6	0%
 轺	jiu4
-轻	heng1	0%
+轻	heng1
 轻	hing1
 轼	sik1
 载	zoi2
@@ -29896,7 +29897,7 @@ min_phrase_weight: 100
 迏	dai3
 运	wan6
 近	gan6
-近	kan5	0%
+近	kan5
 迒	gong1	0%
 迒	hong4
 迓	ngaa6
@@ -29971,7 +29972,7 @@ min_phrase_weight: 100
 逄	pong4
 逅	hau6
 逆	jik6
-逆	ngaak6	0%
+逆	ngaak6
 逈	gwing2
 选	syun2
 选	syun3
@@ -30132,7 +30133,7 @@ min_phrase_weight: 100
 遺	wai4
 遺	wai6
 遻	ng6
-遻	ngok6	0%
+遻	ngok6
 遼	liu4
 遽	geoi3	0%
 遽	geoi6
@@ -30465,8 +30466,8 @@ min_phrase_weight: 100
 醏	dou1
 醐	wu4
 醑	seoi2
-醒	seng2	0%
-醒	sing1	0%
+醒	seng2
+醒	sing1
 醒	sing2
 醓	taam2
 醓	taam5	0%
@@ -30560,7 +30561,7 @@ min_phrase_weight: 100
 釖	gim3
 釗	ciu1
 釗	ziu1	0%
-釘	deng1	0%
+釘	deng1
 釘	ding1
 釙	pok3
 釚	kau4
@@ -30634,7 +30635,7 @@ min_phrase_weight: 100
 鈒	zaap6
 鈓	jam5
 鈔	caau1
-鈔	caau3	0%
+鈔	caau3
 鈕	nau2
 鈕	nau5	0%
 鈖	fan1
@@ -30907,10 +30908,10 @@ min_phrase_weight: 100
 鋶	lau5
 鋷	zeoi3
 鋸	geoi3
-鋸	goe3	0%
+鋸	goe3
 鋹	cong2
 鋺	jyun1
-鋻	gin1	0%
+鋻	gin1
 鋻	gin3
 鋼	gong1	0%
 鋼	gong3
@@ -30976,7 +30977,7 @@ min_phrase_weight: 100
 錩	coeng1
 錪	din2	0%
 錪	tin2
-錫	sek3	0%
+錫	sek3
 錫	sik3
 錬	lin6
 錭	diu1
@@ -31095,7 +31096,7 @@ min_phrase_weight: 100
 鎔	jung4
 鎕	tong4
 鎖	so2
-鎗	caang1	0%
+鎗	caang1
 鎗	coeng1
 鎘	gaak3
 鎘	lik6
@@ -31106,7 +31107,7 @@ min_phrase_weight: 100
 鎝	saap3
 鎞	bai1
 鎞	bei6	0%
-鎞	pei1	0%
+鎞	pei1
 鎟	song2
 鎠	gong3
 鎡	zi1
@@ -31167,7 +31168,7 @@ min_phrase_weight: 100
 鏏	wai6	0%
 鏐	lau4
 鏑	dik1
-鏑	dik6	0%
+鏑	dik6
 鏒	sam3
 鏓	cung1
 鏔	ji4
@@ -31234,7 +31235,7 @@ min_phrase_weight: 100
 鐉	cyun4
 鐊	joeng4
 鐋	tong1
-鐋	tong2	0%
+鐋	tong2
 鐋	tong3
 鐌	zoeng6
 鐍	kyut3
@@ -31390,7 +31391,7 @@ min_phrase_weight: 100
 钇	jyut6	0%
 针	kim4
 针	zam1
-钉	deng1	0%
+钉	deng1
 钉	ding1
 钊	ciu1
 钊	ziu1	0%
@@ -31421,7 +31422,7 @@ min_phrase_weight: 100
 钜	geoi6
 钝	deon6
 钞	caau1
-钞	caau3	0%
+钞	caau3
 钟	zung1
 钠	naap6
 钠	naat3
@@ -31552,7 +31553,7 @@ min_phrase_weight: 100
 铲	caan2
 铳	cung3
 铴	tong1
-铴	tong2	0%
+铴	tong2
 铴	tong3
 铵	ngon1	0%
 铵	on1
@@ -31621,7 +31622,7 @@ min_phrase_weight: 100
 锟	gwan1	0%
 锟	kwan1
 锠	coeng1
-锡	sek3	0%
+锡	sek3
 锡	sik3
 锢	gu3
 锣	lo4
@@ -31646,7 +31647,7 @@ min_phrase_weight: 100
 锭	ding6	0%
 键	gin6
 锯	geoi3
-锯	goe3	0%
+锯	goe3
 锰	maang5
 锱	zi1
 锲	kit3
@@ -31709,7 +31710,7 @@ min_phrase_weight: 100
 镛	jung4
 镜	geng3
 镝	dik1
-镝	dik6	0%
+镝	dik6
 镞	zuk1	0%
 镞	zuk6
 镟	syun4
@@ -32337,7 +32338,7 @@ min_phrase_weight: 100
 霰	sin3
 霱	leot6
 霱	wat6
-露	lau6	0%
+露	lau6
 露	lou6
 霴	doi6
 霵	zap1
@@ -32374,11 +32375,11 @@ min_phrase_weight: 100
 靉	oi3	0%
 靊	fung1
 靋	lik6
-靑	ceng1	0%
+靑	ceng1
 靑	cing1
-青	ceng1	0%
+青	ceng1
 青	cing1
-靓	leng3	0%
+靓	leng3
 靓	zing6
 靔	tin1
 靕	zan1
@@ -32387,7 +32388,7 @@ min_phrase_weight: 100
 靘	cing1
 靘	cing3
 静	zing6
-靚	leng3	0%
+靚	leng3
 靚	zing6
 靛	din6
 靜	zing6
@@ -32595,7 +32596,7 @@ min_phrase_weight: 100
 頁	jip6
 頁	kit3
 頁	sau2	0%
-頂	deng2	0%
+頂	deng2
 頂	ding2
 頃	king1
 頃	king2
@@ -32732,7 +32733,7 @@ min_phrase_weight: 100
 页	jip6
 页	kit3
 页	sau2	0%
-顶	deng2	0%
+顶	deng2
 顶	ding2
 顷	king1
 顷	king2
@@ -33115,7 +33116,7 @@ min_phrase_weight: 100
 馕	nong4
 馕	nong5
 首	sau2
-首	sau3	0%
+首	sau3
 馗	kwai4
 馘	gwik1
 馘	gwok3	0%
@@ -33264,8 +33265,8 @@ min_phrase_weight: 100
 騌	zung1
 騍	fo3
 騎	gei6
-騎	ke4	0%
-騎	kei3	0%
+騎	ke4
+騎	kei3
 騎	kei4
 騏	kei4
 騐	jim6
@@ -33431,8 +33432,8 @@ min_phrase_weight: 100
 骏	zeon3
 骐	kei4
 骑	gei6
-骑	ke4	0%
-骑	kei3	0%
+骑	ke4
+骑	kei3
 骑	kei4
 骒	fo3
 骓	zeoi1
@@ -33473,7 +33474,7 @@ min_phrase_weight: 100
 骯	kong3	0%
 骯	ngong1	0%
 骯	ong1
-骰	sik1	0%
+骰	sik1
 骰	tau4
 骱	gaai3
 骱	haai6	0%
@@ -33539,7 +33540,7 @@ min_phrase_weight: 100
 髦	mou1	0%
 髦	mou4
 髧	daam6
-髧	dam3	0%
+髧	dam3
 髪	faat3
 髪	fat3	0%
 髫	tiu4
@@ -33608,7 +33609,7 @@ min_phrase_weight: 100
 鬠	kut3
 鬡	ning4
 鬢	ban3
-鬣	lip6	0%
+鬣	lip6
 鬤	joeng5
 鬥	dau3
 鬦	dau2
@@ -34320,7 +34321,7 @@ min_phrase_weight: 100
 鶛	gaai1
 鶛	gaai3
 鶜	maau4
-鶝	bik1	0%
+鶝	bik1
 鶝	fuk1
 鶞	ceon1
 鶟	dat6
@@ -34774,10 +34775,10 @@ min_phrase_weight: 100
 黼	fu2
 黽	maang5
 黽	man5
-黽	min5	0%
+黽	min5
 黾	maang5
 黾	man5
-黾	min5	0%
+黾	min5
 黿	jyun4
 鼀	cuk1
 鼁	heoi3
@@ -38423,7 +38424,7 @@ min_phrase_weight: 100
 𫌇	zip3
 𫌨	lo4
 𫌪	mak6
-𫌪	mik6	0%
+𫌪	mik6
 𫌭	mei4
 𫌯	faan4
 𫌯	hiu1
@@ -38554,7 +38555,7 @@ min_phrase_weight: 100
 𫔆	baa6
 𫔇	bai1
 𫔇	bei6	0%
-𫔇	pei1	0%
+𫔇	pei1
 𫔈	sok3
 𫔉	jing1
 𫔊	sau3
