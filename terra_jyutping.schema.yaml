@@ -97,12 +97,12 @@ translator:
 pinyin:
   tag: pinyin
   dictionary: luna_pinyin
+  enable_user_dict: false
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕
   closing_tips: 〔粵拼〕
   preedit_format:
-    - xform/^(.*)$/\1\t〔拼音〕/
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
@@ -110,12 +110,12 @@ pinyin:
 cangjie:
   tag: cangjie
   dictionary: cangjie5
+  enable_user_dict: false
   prefix: "~"
   suffix: "'"
   tips: 〔倉頡〕
   closing_tips: 〔粵拼〕
   preedit_format:
-    - xform/^(.*)$/\1\t〔倉頡〕/
     - xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|
 
 reverse_lookup:
