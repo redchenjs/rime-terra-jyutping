@@ -1,6 +1,6 @@
 # 地球粵拼
 
-配方： ℞ **terra-jyutping**
+配方： ℞ **redchenjs/rime-terra-jyutping**
 
 [Rime](https://rime.im) 粵拼輸入方案（全拼版）
 
