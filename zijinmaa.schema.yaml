@@ -4,15 +4,15 @@
 schema:
   schema_id: zijinmaa
   name: 自然碼粵拼
-  version: "2023.09.05"
+  version: "2024.02.04"
   author:
     - Jack Chen <redchenjs@live.com>
   description: |
     採用香港語言學會粵語拼音方案
     https://www.jyutping.org/jyutping/
   dependencies:
-    - luna_pinyin
     - jyut6ping3
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -101,23 +101,23 @@ translator:
   preedit_format:
     - xform/([bpmfdtnlgkhzcsj])w/$1IU/
     - xform/([bpdtnlgkrhzcs])r/$1OI/
-    - xform/([mdtnlgkrhzcs])t/$1AM/
+    - xform/([bmdtnlgkrhzcsj])t/$1AM/
     - xform/([bpmfdtnlgkhywzcsj])y/$1IB/
     - xform/([dtlghzcsj])ut/$1YUT/
     - xform/([bpmfkw])ut/$1UT/
     - xform/([bpmfdtnlgkhwzcsj])uk/$1UK/
     - xform/([zcsj])u/$1YU/
     - xform/([h])u/$1M/
-    - xform/([gkrh])i([ ']|$)/$1ON$2/
+    - xform/([gkrh])i([ \']|$)/$1ON$2/
     - xform/([bpmfgw])p/$1UN/
     - xform/([dtnlkhzcsj])p/$1YUN/
     - xform/([bpmfdtnlgkrhyxwzcs])s/$1OB/
-    - xform/(^|[ '])([bpmfdtnlgkhzcsj])d/$1$2UB/
+    - xform/(^|[ \'])([bpmfdtnlgkhzcsj])d/$1$2UB/
     - xform/([dtnlgkhzcsj])f/$1OEB/
     - xform/([bpmfw])f/$1EN/
     - xform/([bpmdtlgkhwzcsj])g/$1EB/
     - xform/([bpmfdtnlgkrhyxwzcsj])h/$1AB/
-    - xform/([bpmfdtnlgrhyxwzcs])j/$1AN/
+    - xform/([bpmfdtnlgrhyxwzcsj])j/$1AN/
     - xform/([bpmfdtnlgkrhzcsj])k/$1AU/
     - xform/([bpmfdtnlgkrhyxwzcsj])l/$1AI/
     - xform/([bpmfdnlgkhyzs])z/$1EI/
@@ -130,16 +130,16 @@ translator:
     - xform/([bpmdtnlgkhzcsj])n/$1IN/
     - xform/([dtnlgkhzcsj])m/$1IM/
     - xform/([bmdtnlgkrhzcsj])6/$1QM/
-    - xform/([fk])7/$1EU/
-    - xform/([bpmdtnlgrhyxwzcs])7/$1QB/
+    - xform/([fdk])7/$1EU/
+    - xform/([bpmtnlgrhyxwzcs])7/$1QB/
     - xform/([bpmfdtnlgkrhyxwzcsj])8/$1QN/
     - xform/([fdtyw])9/$1EM/
     - xform/([bpmnlgkrhzcsj])9/$1QU/
     - xform/([bpmfdtnlgkrhyxwzcsj])0/$1QI/
     - xlit/QWERTYUIOPASDFGHJKLZXCVBNM/qwertyuiopasdfghjklzxcvbnm/
-    - xform/(^|[ '])r([a-z])/$1ng$2/  # ^r => ng
-    - xform/(^|[ '])y([a-z])/$1gw$2/  # ^y => gw
-    - xform/(^|[ '])x([a-z])/$1kw$2/  # ^x => kw
+    - xform/(^|[ \'])r([a-z])/$1ng$2/  # ^r => ng
+    - xform/(^|[ \'])y([a-z])/$1gw$2/  # ^y => gw
+    - xform/(^|[ \'])x([a-z])/$1kw$2/  # ^x => kw
     - xform/([a-z])q/$1aa/       # *q => aa
     - xform/([a-z])x/$1oe/       # *x => oe
     - xform/q([a-z])/aa$1/       # q* => aa
