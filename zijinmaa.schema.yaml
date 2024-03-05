@@ -4,7 +4,7 @@
 schema:
   schema_id: zijinmaa
   name: 自然碼粵拼
-  version: "2024.02.04"
+  version: "2024.03.05"
   author:
     - Jack Chen <redchenjs@live.com>
   description: |
