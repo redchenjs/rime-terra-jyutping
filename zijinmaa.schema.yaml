@@ -117,7 +117,7 @@ translator:
     - xform/([bpmfw])f/$1EN/
     - xform/([bpmdtlgkhwzcsj])g/$1EB/
     - xform/([bpmfdtnlgkrhyxwzcsj])h/$1AB/
-    - xform/([bpmfdtnlgrhyxwzcsj])j/$1AN/
+    - xform/([bpmfdtnlgkrhyxwzcsj])j/$1AN/
     - xform/([bpmfdtnlgkrhzcsj])k/$1AU/
     - xform/([bpmfdtnlgkrhyxwzcsj])l/$1AI/
     - xform/([bpmfdnlgkhyzs])z/$1EI/
